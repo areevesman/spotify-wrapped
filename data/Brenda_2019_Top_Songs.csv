@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year
+"Archie, Marry Me",Alvvays,Alvvays,2014-07-22,196560,65,0.00956,0.27,0.83,0.434,0.142,-4.592,0.0741,117.314,0.205,4,7,1,spotify:track:5HLes17mwCwKt81mi0Tk35,2014
+I Don't Know You,I Don't Know You,The Marías,2017-06-14,209449,69,0.293,0.884,0.333,0.0205,0.103,-9.753,0.0617,118.065,0.587,4,9,0,spotify:track:4cJOLN346rtOty3UPACsao,2017
+Only Human,Happiness Begins,Jonas Brothers,2019-06-07,183000,76,0.108,0.795,0.496,0.0,0.0645,-5.883,0.0722,94.01,0.874,4,0,1,spotify:track:0DiDStADDVh3SvAsoJAFMk,2019
+Sucker,Happiness Begins,Jonas Brothers,2019-06-07,181026,84,0.0427,0.842,0.734,0.0,0.106,-5.065,0.0588,137.958,0.952,4,1,0,spotify:track:22vgEDb5hykfaTwLuskFGD,2019
+Out in the Way,What a Pleasure,Beach Fossils,2011-03-08,232007,0,0.00117,0.541,0.786,0.912,0.225,-6.731,0.0274,133.009,0.744,4,11,1,spotify:track:4M11VQwDGN8kk03um6s5ps,2011
+Don't Throw it Away,Happiness Begins,Jonas Brothers,2019-06-07,172560,52,0.0245,0.731,0.858,0.0,0.0852,-5.082,0.0981,102.02,0.732,4,1,0,spotify:track:24eP9hGnGR6RCQvllQVkCm,2019
+Off and On,Forever & Ever,SALES,2018-07-19,250909,44,0.173,0.811,0.472,0.407,0.0969,-13.446,0.0429,131.983,0.822,4,8,0,spotify:track:4WbSPgddOWXGQNnUB7Jabq,2018
+In Undertow,Antisocialites,Alvvays,2017-09-08,197186,55,0.000112,0.359,0.691,0.00167,0.101,-2.626,0.0438,116.888,0.311,4,1,1,spotify:track:1gvaxqNiJEbQzWPqs72kgG,2017
+What Do You Want from Me Tonight?,Ed Buys Houses,Sidney Gish,2016-12-29,133743,46,0.657,0.552,0.236,0.0,0.0988,-12.252,0.0318,90.0,0.619,4,4,1,spotify:track:2OZVUfl8K0Ijw32bUf1fG4,2016
+Saint Ivy,Somersault,Beach Fossils,2017-06-02,224410,0,0.0338,0.39,0.546,0.0586,0.328,-6.588,0.0346,163.452,0.441,4,11,0,spotify:track:6qn2qn12aqeFfIjGodvxjw,2017
+Easier Said,Human Ceremony,Sunflower Bean,2016-02-05,208229,44,0.29,0.507,0.9,0.374,0.154,-4.226,0.036,155.072,0.663,4,8,0,spotify:track:5KOMmEpFZmon7Mnpkan3RZ,2016
+What a Pleasure,What a Pleasure,Beach Fossils,2011-03-08,152684,3,0.000176,0.523,0.938,0.929,0.32,-4.362,0.0652,152.009,0.877,4,2,1,spotify:track:6p5oyiuAmfNdm526xamHxf,2011
+Used To Be,Happiness Begins,Jonas Brothers,2019-06-07,184986,53,0.172,0.71,0.517,0.0,0.0786,-6.85,0.0448,145.946,0.176,4,1,1,spotify:track:2n6red10oCd6YhlEUp6jXy,2019
+When Am I Gonna Lose You,When Am I Gonna Lose You / Café Amarillo,Local Natives,2019-03-08,264213,0,0.0417,0.452,0.834,0.00036,0.119,-4.657,0.0967,142.088,0.514,4,11,1,spotify:track:7ze7X8r4fopBs9ZRtwYFOX,2019
+Stuck on the puzzle,Submarine - Original Songs From The Film By Alex Turner,Alex Turner,2011-03-15,211053,59,0.0792,0.58,0.682,0.0316,0.161,-8.523,0.0332,77.53,0.774,4,4,1,spotify:track:7w6QlKAOcNEnqRgrnJvQtr,2011
+May 1st,Somersault,Beach Fossils,2017-06-02,178554,2,0.0407,0.569,0.625,0.0113,0.536,-7.429,0.0273,139.966,0.502,4,2,1,spotify:track:5yaO6I0gPMq6OgkroE7Pfd,2017
+Every Single Time,Happiness Begins,Jonas Brothers,2019-06-07,212093,51,0.135,0.756,0.685,0.0,0.123,-5.176,0.0446,151.988,0.91,4,11,0,spotify:track:76F54HHrw84yqAYqrAJkbr,2019
+Traveling,Young & Old,Tennis,2013,181866,28,0.00354,0.337,0.889,8.9e-06,0.0582,-4.576,0.0467,154.967,0.834,4,6,0,spotify:track:472vm4L9jh22G6BIIMQJJs,2013
+No Buses,Who The F*** Are Arctic Monkeys?,Arctic Monkeys,2006-05-09,197320,56,0.155,0.481,0.524,0.000147,0.0523,-9.051,0.0369,101.883,0.425,4,4,1,spotify:track:4bKpnMKt2vBOQ1wZHGEJJO,2006
+Vertigo,Clash the Truth: Demos,Beach Fossils,2013-11-15,151360,0,0.307,0.48,0.86,0.749,0.293,-7.631,0.0425,129.989,0.283,4,1,0,spotify:track:6VG0qIU6idnbw9GXeiF2zU,2013
+I Believe,Happiness Begins,Jonas Brothers,2019-06-07,217533,65,0.0857,0.749,0.774,1.14e-05,0.11,-6.221,0.12,99.019,0.35,4,9,1,spotify:track:1vYh9x8UmFTLbXiizk9Qc5,2019
+Sam's Town - Live From Abbey Road / 2006,Sawdust,The Killers,2007-01-01,223720,42,0.765,0.53,0.444,0.0,0.394,-8.221,0.0441,133.994,0.273,4,6,0,spotify:track:3Va8YnnKB5c21OyB4B0DKo,2007
+You Belong To Me,Over And Over,The 88,2005-01-01,207893,39,0.902,0.476,0.282,1.52e-05,0.104,-8.98,0.0359,151.98,0.378,4,1,1,spotify:track:5TSz2XVImJFn2iXNt5jtvP,2005
+Basta Ya,"Superclean, Vol. I",The Marías,2017-11-03,176599,59,0.585,0.766,0.3,0.00174,0.114,-8.911,0.0375,85.993,0.44,4,11,0,spotify:track:4CUTUsBGjHslu2Bd3AOXGg,2017
+Love Her,Happiness Begins,Jonas Brothers,2019-06-07,193133,62,0.178,0.74,0.337,0.0,0.0944,-6.039,0.0282,103.002,0.56,4,8,1,spotify:track:2hgk8iKN9UdoM4ILlJ9F5N,2019
+Down the Line,Somersault,Beach Fossils,2017-06-02,158474,6,0.24,0.603,0.743,0.00392,0.147,-6.569,0.0395,162.265,0.533,4,7,1,spotify:track:1KPDAA9zyJXcEDvFW5inYi,2017
+Swim and Sleep (Like a Shark),II (Deluxe Edition),Unknown Mortal Orchestra,2013-10-22,165226,0,0.124,0.766,0.806,0.171,0.119,-10.011,0.0403,123.509,0.76,4,8,1,spotify:track:0nWNsAGL83rLorldSfdBii,2013
+Neighbour Riffs,Astro Coast,Surfer Blood,2010-01-19,128560,0,0.0253,0.252,0.774,0.818,0.0856,-5.766,0.0455,158.26,0.55,4,9,1,spotify:track:37kiX9OYMn6P7wZvMG6iB2,2010
+Trust,Happiness Begins,Jonas Brothers,2019-06-07,180600,48,0.0248,0.806,0.559,1.63e-05,0.135,-6.329,0.0588,146.041,0.671,3,0,1,spotify:track:5MoU7TaAvgBa8W0XVwXAd7,2019
+Crashed Out,Clash the Truth,Beach Fossils,2013-02-19,204620,0,0.00218,0.353,0.993,0.601,0.345,-5.306,0.0713,164.984,0.67,4,2,1,spotify:track:4c3o7W2d67VQ6mmCPJO7Bq,2013
+Why Won't They Talk To Me?,Lonerism,Tame Impala,2012-01-01,286093,63,0.553,0.516,0.871,0.0282,0.0841,-5.21,0.0503,129.946,0.17,4,7,1,spotify:track:6IM45SqAURH6PrvziDs1RQ,2012
+When I Get There,Invincible EP,Big Wild,2017-02-10,220000,1,0.000196,0.694,0.483,0.557,0.134,-7.157,0.0359,96.029,0.132,4,0,1,spotify:track:2sKTYRCgUHXmIhI2hoBuZE,2017
+Strangers,Happiness Begins,Jonas Brothers,2019-06-07,233853,53,0.0312,0.594,0.842,0.0,0.071,-4.892,0.072,129.986,0.573,4,1,1,spotify:track:5md87aD3pGXRghKUbZdyh8,2019
+Window View,Beach Fossils,Beach Fossils,2010-05-25,246386,0,0.809,0.533,0.75,0.843,0.114,-8.11,0.0253,90.028,0.933,4,11,1,spotify:track:4D2My7mDZ5NZTAq7geSpfI,2010
+Numb,Visceral,Getter,2018-09-28,298580,40,0.0298,0.354,0.731,0.000786,0.131,-6.581,0.051,98.773,0.0393,4,1,0,spotify:track:2ZrG4npFQILhr36NxEjkLQ,2018
+Clueless,Clueless,The Marías,2018-09-06,227234,58,0.644,0.829,0.232,0.151,0.257,-16.553,0.0415,94.007,0.52,4,2,1,spotify:track:7mrEpwmQJ7qK1ik7ZjjcdD,2018
+Comeback,Happiness Begins,Jonas Brothers,2019-06-07,155680,52,0.0913,0.55,0.553,0.0,0.111,-7.34,0.0403,145.009,0.185,4,0,1,spotify:track:064tgRK6FYBwikCdxaHFV1,2019
+Sleep Apnea,Clash the Truth,Beach Fossils,2013-02-19,146293,4,0.145,0.553,0.685,0.859,0.138,-10.624,0.0266,79.998,0.491,4,2,1,spotify:track:34LohAliZ2QKydqVJcFpwV,2013
+Hold on Tight,Visceral,Getter,2018-09-28,272903,37,0.111,0.343,0.739,0.0,0.0887,-2.3,0.103,93.01,0.318,4,10,1,spotify:track:4ewW1aXS1NxWDWGoIDtYTM,2018
+Fading,Outer Peace,Toro y Moi,2019-01-18,197146,0,0.0617,0.739,0.666,0.164,0.0934,-8.169,0.21,122.144,0.666,4,1,0,spotify:track:4RKXPNzSNfrlgcCrksmauL,2019
+Cool,Happiness Begins,Jonas Brothers,2019-06-07,167106,67,0.00873,0.683,0.598,0.0,0.156,-5.487,0.0423,78.969,0.62,4,0,1,spotify:track:7yfi8B8opXjnRh4VZnOkz9,2019
+City of Sound,Superdream,Big Wild,2019-02-01,232000,53,0.0128,0.684,0.482,0.742,0.17,-5.339,0.0346,120.008,0.724,4,7,1,spotify:track:7c7ClnE57SwbizNe24XTXe,2019
+Doused,Oshin,DIIV,2012-06-26,222973,1,0.0674,0.379,0.868,0.763,0.0645,-4.913,0.038,169.984,0.744,4,5,0,spotify:track:4QDbzpmRA6atTEEE2W7j7k,2012
+In My Life - Remastered 2009,Rubber Soul (Remastered),The Beatles,1965-12-03,146333,76,0.449,0.688,0.435,0.0,0.113,-11.359,0.0323,103.239,0.435,4,9,1,spotify:track:3KfbEIOC7YIv90FIfNSZpo,1965
+Hesitate,Happiness Begins,Jonas Brothers,2019-06-07,208840,59,0.227,0.622,0.485,0.0,0.0889,-7.259,0.0322,118.051,0.236,4,2,1,spotify:track:7fiFJADUcHwTdYLmnZeLAy,2019
+Floodlights,No Wonders,Jack and Eliza,2014-09-19,207234,19,0.576,0.567,0.37,0.000284,0.102,-6.61,0.0273,99.427,0.429,4,5,1,spotify:track:2anOUthKXDBgepx8SQrbEa,2014
+Canopée,Caravelle,Polo & Pan,2017-05-19,276293,69,0.0942,0.704,0.692,0.0109,0.0922,-6.558,0.0304,96.005,0.369,4,5,0,spotify:track:260V7huyJrXnyYe0dFv2Fa,2017
+Dance Dance,Social Cues,Cage The Elephant,2019-04-19,190466,54,0.00171,0.61,0.763,0.000415,0.28,-2.703,0.0271,106.028,0.728,4,2,1,spotify:track:7A8iUf6fZZcrnnurw7VKSK,2019
+Rollercoaster,Happiness Begins,Jonas Brothers,2019-06-07,181813,62,0.0583,0.697,0.58,0.0,0.393,-7.986,0.0451,123.977,0.467,4,11,0,spotify:track:7dxKdQC9Vo1hDxIUnt1z0Q,2019
+The Other Side Of Paradise,How To Be A Human Being,Glass Animals,2016-08-26,320654,79,0.349,0.689,0.338,5.7e-05,0.0649,-7.634,0.0629,128.012,0.568,4,11,0,spotify:track:0rRjGruFonCGOt0S5zAJNQ,2016
+Patience,Patience,Tame Impala,2019-03-22,292267,66,0.00223,0.546,0.859,0.000947,0.0529,-5.966,0.0306,99.965,0.645,4,1,1,spotify:track:2drEUEg0TYQR6dDEHkpuPE,2019
+First Day Of My Life,"I'm Wide Awake, It's Morning",Bright Eyes,2005-01-25,188800,3,0.915,0.602,0.201,8.28e-05,0.0952,-17.024,0.0363,95.345,0.385,4,4,1,spotify:track:5OiaAaIMYlCZONyDBxqk4G,2005
+Happy When I'm Sad,Happiness Begins,Jonas Brothers,2019-06-07,158466,49,0.000199,0.782,0.793,0.000215,0.306,-7.054,0.0399,100.987,0.906,4,7,1,spotify:track:6DibqiBTKMob2SjBwKqRfS,2019
+Cumbia De Este Valle,Ocho Ojos,Ocho Ojos,2018-03-08,237333,17,0.0376,0.721,0.722,0.451,0.0421,-7.411,0.0521,90.066,0.957,4,6,1,spotify:track:5W41CDj9Sex3MNzN31TeUb,2018
+Magic In The Hamptons (feat. Lil Yachty),Magic In The Hamptons (feat. Lil Yachty),Social House,2018-06-08,164640,79,0.66,0.769,0.479,0.0,0.0914,-5.339,0.0385,96.051,0.803,4,1,1,spotify:track:2Yer0p7uB2lVBUAtANuuQp,2018
+No Words,Superdream,Big Wild,2019-02-01,215510,55,0.0791,0.671,0.592,0.000405,0.0982,-6.648,0.0269,97.98,0.388,4,2,1,spotify:track:2fk60nscnf7sDLcXxjDwUm,2019
+Generational Synthetic,Clash the Truth,Beach Fossils,2013-02-19,164999,0,0.0469,0.369,0.902,0.619,0.137,-5.743,0.0409,167.543,0.567,4,11,1,spotify:track:0B8zyV6NOayK5dEwGiu2lt,2013
+Social Cues,Social Cues,Cage The Elephant,2019-04-19,219053,70,0.0119,0.668,0.913,6.7e-06,0.111,-3.097,0.0348,132.039,0.933,4,9,1,spotify:track:1KuVdyg8d6NlRhbpHxg5UF,2019
+Freelance,Outer Peace,Toro y Moi,2019-01-18,225893,1,0.014,0.975,0.475,0.0111,0.165,-7.067,0.123,115.009,0.867,4,9,0,spotify:track:1zbLpabwKzj404PWNEKtjL,2019
+Show Me,Show Me,Big Wild,2017-10-09,227555,0,0.418,0.566,0.447,0.00443,0.114,-8.303,0.0372,101.171,0.0394,3,1,1,spotify:track:3y8fG2oGK5sx7liKZ9oyx7,2017
+Make It Better (feat. Smokey Robinson),Ventura,Anderson .Paak,2019-04-12,219332,69,0.0112,0.676,0.56,0.00403,0.137,-6.024,0.0643,178.555,0.551,4,4,0,spotify:track:4SBVWkRIMJ6WBCYPvr5Bwr,2019
+Talking Backwards,Atlas,Real Estate,2014-03-03,187733,58,0.0299,0.408,0.875,0.823,0.169,-6.036,0.0301,150.782,0.56,4,5,1,spotify:track:0ZwlxoHAnvkCRjsOrHAleU,2014
+Lasso,Wolfgang Amadeus Phoenix,Phoenix,2009-05-25,167840,56,0.0208,0.642,0.628,0.00029,0.125,-7.272,0.0349,150.948,0.944,4,11,1,spotify:track:1DqTNIgasdUuTVBfHuEZds,2009
+Death with Dignity,Carrie & Lowell,Sufjan Stevens,2015-03-31,239508,13,0.986,0.51,0.16,0.017,0.113,-21.03,0.0395,170.063,0.383,4,4,1,spotify:track:4fpEuKIzTLmMJnYwFU0oqr,2015
+Where the Sidewalk Ends,No Dogs Allowed,Sidney Gish,2017-12-31,169301,38,0.4,0.491,0.372,0.0,0.0944,-10.322,0.0315,80.728,0.813,4,0,1,spotify:track:4Swny18O6OSmj521UYbZa8,2017
+She Don't (feat. Ty Dolla $Ign),Time,Ella Mai,2016-02-15,264097,72,0.274,0.649,0.478,0.0,0.176,-7.503,0.0481,99.967,0.151,4,7,0,spotify:track:01JPQ87UHeGysPVwTqMJHK,2016
+Jewel,Hi This Is Flume (Mixtape),Flume,2019-03-22,193732,54,0.163,0.464,0.496,0.000501,0.783,-6.688,0.0447,113.317,0.0803,4,0,1,spotify:track:7cPO2IPraPDlGIguekShlV,2019
+Go,"""Let's Rock""",The Black Keys,2019-06-28,146596,58,0.0428,0.478,0.666,0.725,0.336,-7.766,0.0566,149.974,0.718,4,1,1,spotify:track:2GuXIMRlaxVLcU0a5jacHw,2019
+Black Mambo,ZABA (Deluxe),Glass Animals,2014-06-06,248920,50,0.298,0.675,0.41,0.000679,0.133,-10.699,0.0444,79.998,0.301,4,0,0,spotify:track:7bfjVe06NIMNzE9G2cO5fO,2014
+Islands,xx,The xx,2009-08-18,160720,0,0.74,0.871,0.472,0.286,0.145,-11.077,0.0756,124.04,0.707,4,4,1,spotify:track:27BpBnTNtY9SBrE3EusnM6,2009
+Who The Fuck Are Arctic Monkeys?,Who The F*** Are Arctic Monkeys?,Arctic Monkeys,2006-05-09,336826,52,0.000216,0.348,0.896,0.0173,0.168,-7.63,0.0397,132.577,0.572,4,4,0,spotify:track:4MFQ0wsGuiKJrPNLUaCVnt,2006
+Nanã,Caravelle,Polo & Pan,2017-05-19,190826,69,0.191,0.685,0.735,0.038,0.188,-6.337,0.0334,94.035,0.385,3,4,0,spotify:track:0Psz3az3RIYfJpnsajBT8N,2017
+Broken Boy,Social Cues,Cage The Elephant,2019-04-19,163200,64,0.0018,0.52,0.931,0.000306,0.115,-3.051,0.0969,166.018,0.557,4,4,1,spotify:track:0RbcDELsGTciLeMGsSdJAc,2019
+Mama's Gun,How To Be A Human Being,Glass Animals,2016-08-26,266747,62,0.699,0.46,0.314,4.03e-06,0.122,-10.158,0.0267,90.014,0.216,4,6,0,spotify:track:5o4znEHwozOHIgHoWAllnr,2016
+Something Good,An Awesome Wave,alt-J,2012-09-18,217320,59,0.714,0.682,0.581,0.324,0.0802,-10.339,0.0295,108.981,0.539,4,7,1,spotify:track:3xqxETvPg43KWP0HOGiOmu,2012
+Suck It and See,Suck It and See,Arctic Monkeys,2011-06-07,225986,53,0.00105,0.339,0.932,0.114,0.255,-5.017,0.057,128.291,0.586,4,4,1,spotify:track:3UZfvX4ky5C4mblUIR0LE1,2011
+You Make The Sun Fry,Goodbye Bread,Ty Segall,2011-06-21,151000,0,3.92e-05,0.256,0.627,0.0,0.0763,-5.84,0.0307,76.12,0.473,4,0,0,spotify:track:08WgHqQRAvNB7vuARNS2Sr,2011
+Uproar,Tha Carter V,Lil Wayne,2018-09-28,194184,73,0.0595,0.743,0.87,0.0,0.299,-2.188,0.212,99.079,0.884,4,1,1,spotify:track:3wScL5W8H40zzCKN0atfBk,2018
+Games,Jonas Brothers,Jonas Brothers,2007-08-07,201306,0,0.00161,0.503,0.912,3.07e-06,0.115,-3.153,0.062,155.021,0.817,4,11,1,spotify:track:11CNOvthfQ5huqkl3FSLPq,2007
+Cigarettes,Flow State,Tash Sultana,2018-08-31,322715,50,0.0319,0.563,0.755,7.59e-05,0.0562,-5.048,0.248,158.027,0.576,4,11,0,spotify:track:4eFTvwsYlTC0b0fjqxmrx7,2018
+"Million Dollar Seller, Pt. 2","Million Dollar Seller, Pt. 1",Vista Kicks,2018-06-01,179733,10,0.118,0.652,0.722,0.845,0.0781,-7.398,0.0432,101.962,0.665,4,9,1,spotify:track:0yQ61g51v4VPTDAwMhG6KU,2018
+Night Running,Goodbye / Ready To Let Go / Night Running / House of Glass,Cage The Elephant,2019-04-08,208133,31,0.0661,0.601,0.946,1.12e-05,0.388,-2.298,0.0656,141.929,0.58,4,4,0,spotify:track:1TqfVf7SNkwD2gZuwJQJLO,2019
+Brazil,What Do You Think About the Car?,Declan McKenna,2017-07-21,252306,76,0.0941,0.687,0.617,1.27e-05,0.0898,-5.213,0.0287,121.079,0.665,4,4,1,spotify:track:4sNG6zQBmtq7M8aeeKJRMQ,2017
+Bed I Made - Bonus Track,Radius (Deluxe Edition),Allen Stone,2016-03-25,196585,0,0.336,0.656,0.581,0.0,0.382,-7.38,0.154,79.994,0.528,4,1,0,spotify:track:0GcopI4TAVxqncAZu76Szf,2016
+Invincible,Invincible EP,Big Wild,2017-02-10,218313,0,0.265,0.521,0.664,0.000133,0.121,-4.903,0.0481,82.895,0.115,4,7,0,spotify:track:5EBZGhW4OSo6mS8B3STM3X,2017
+Pools,ZABA,Glass Animals,2014-06-03,288733,63,0.147,0.676,0.645,0.000173,0.125,-8.647,0.0393,105.072,0.226,4,0,1,spotify:track:7jO2B8Xgfu7D9vj60XiG7Y,2014
+All Is Lost,Visceral,Getter,2018-09-28,306000,45,0.00762,0.413,0.769,0.00485,0.126,-4.405,0.0469,80.039,0.112,4,7,0,spotify:track:0fodhzGqcK6GWuQ4nvWlLr,2018
+Paws,Mirror Maru - EP,Cashmere Cat,2012-10-22,262013,30,0.478,0.707,0.575,0.128,0.103,-6.629,0.0343,129.953,0.216,4,2,0,spotify:track:1v8sFvz8VBTTemAAydTtv0,2012
+Melanin Man (feat. Masego),Good Love,Brasstracks,2016-08-19,250521,42,0.0104,0.514,0.686,0.0,0.273,-4.991,0.207,81.328,0.524,4,10,0,spotify:track:4O4maU1Ki1PMaByGZqoC5g,2016
+4EVER,4EVER,Clairo,2018-04-27,159595,75,0.049,0.75,0.585,0.00552,0.155,-7.576,0.0285,102.331,0.584,4,9,0,spotify:track:5mIOsPuQdXchVY0jB5NO9Q,2018
+Where Will We Go,Supermegafantastic,IAMDYNAMITE,2012-03-13,183946,42,0.0066,0.689,0.78,0.000489,0.33,-6.1,0.0639,96.397,0.366,4,1,0,spotify:track:2lTcjyNolq1zsDCevBAKvc,2012
+Lotus,Cage The Elephant (Expanded Edition),Cage The Elephant,2009-03-24,196560,47,0.00183,0.398,0.809,0.0,0.334,-6.163,0.0359,128.483,0.492,4,6,0,spotify:track:3cPLWRuXjNsqqNuZRosZaD,2009
+New Slang,"Oh, Inverted World",The Shins,2001-06-19,231173,2,0.605,0.669,0.388,0.144,0.0905,-11.547,0.0306,130.016,0.645,4,0,1,spotify:track:2cP37n7TZEe0oBxCbZu0KA,2001
+La Brisa,La Brisa,Big Wild,2014-01-02,196056,44,0.0109,0.611,0.631,0.591,0.272,-9.68,0.0409,162.028,0.283,4,9,1,spotify:track:1bayldynRCc4z9ywAmV8uo,2014
+COPYCAT - Sofi Tukker Remix,COPYCAT (Sofi Tukker Remix),Billie Eilish,2018-01-12,198684,64,0.0585,0.682,0.955,3.18e-05,0.226,-5.02,0.0591,124.999,0.451,4,4,0,spotify:track:2njUxZ4151DWIrfIK3loFj,2018
+Cigarette Daydreams,Melophobia,Cage The Elephant,2013-10-08,208760,83,0.0807,0.636,0.676,0.0,0.0831,-3.442,0.0263,113.98,0.273,4,2,1,spotify:track:2tznHmp70DxMyr2XhWLOW0,2013
+Only Child,Only Child,Tierra Whack,2019-02-19,239324,62,0.849,0.826,0.365,3.8e-06,0.186,-7.024,0.0412,85.244,0.802,4,1,1,spotify:track:4zMmqb0pYwX6b0qc0slCoT,2019
+Purple Sand (My Home),Superdream,Big Wild,2019-02-01,218940,59,0.425,0.754,0.634,0.154,0.121,-6.698,0.0337,111.0,0.592,4,6,0,spotify:track:4knUlOyIeFGKH1ObRzfRcl,2019
+Things Will Never Be the Same,JONAS L.A. (Music from the TV Series),Jonas Brothers,2010-07-20,223533,43,0.00746,0.498,0.832,0.0,0.427,-4.72,0.0426,144.988,0.435,4,0,1,spotify:track:2bLRFoBQvmGLVhvJypnC5c,2010
+Goodbye Bread,Goodbye Bread,Ty Segall,2011-06-21,204733,0,0.000323,0.293,0.386,0.308,0.0993,-7.851,0.0327,125.537,0.369,4,2,1,spotify:track:2NtYDasKyo44jiz01rJgjD,2011

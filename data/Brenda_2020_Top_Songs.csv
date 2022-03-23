@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year
+Space Ghost Coast To Coast,Dreamland,Glass Animals,2020-08-07,187383,67,0.105,0.903,0.529,0.00255,0.138,-9.901,0.0623,100.977,0.353,4,8,1,spotify:track:0RZLmpEzGR2NHite6rvS5H,2020
+Shotgun Blast,California Mistake,Caleb Henry,2020-04-17,239969,2,0.00105,0.538,0.621,0.000133,0.12,-7.231,0.0285,141.019,0.463,4,11,0,spotify:track:7atHddQ9G02jPsQc8V5J9X,2020
+It’s All So Incredibly Loud,It’s All So Incredibly Loud,Glass Animals,2020-07-31,259060,45,0.598,0.394,0.278,0.169,0.0689,-13.28,0.033,106.989,0.121,4,1,0,spotify:track:0H8LHYMi4hzbwSzxp7DOxR,2020
+Silvertongue,Home of the Strange,Young the Giant,2016-08-12,197426,65,0.00975,0.673,0.789,0.0,0.752,-4.288,0.0408,100.043,0.841,4,0,1,spotify:track:0yTJtxZJ5VLfBEHhiNUNeY,2016
+Piece,Zombie.P,Too Many Zooz,2019-09-17,194142,29,0.107,0.951,0.564,0.903,0.0617,-6.792,0.0944,114.988,0.598,4,9,0,spotify:track:3DZekdK2zMndgFDiVaKcyb,2019
+High Fashion (feat. Mustard),Please Excuse Me for Being Antisocial,Roddy Ricch,2019-12-06,220486,79,0.269,0.831,0.499,0.0,0.3,-8.442,0.114,97.956,0.511,4,11,0,spotify:track:07KXEDMj78x68D884wgVEm,2019
+Waterfalls Coming Out Your Mouth,Dreamland,Glass Animals,2020-08-07,161789,66,0.194,0.649,0.553,0.000553,0.178,-7.139,0.034,149.004,0.322,4,11,0,spotify:track:7s0FCUlKnSFjFPzcIJmkwo,2020
+Cruise Control,Ride Waves,GRiZ,2019-04-05,273105,39,0.00395,0.324,0.654,0.000192,0.408,-6.21,0.283,176.606,0.632,4,4,1,spotify:track:3wYml942fyI0Arm6qG0s1I,2019
+Fallingwater,Heard It In A Past Life,Maggie Rogers,2019-01-18,271200,66,0.613,0.389,0.322,0.000534,0.093,-8.933,0.0355,86.929,0.453,4,2,1,spotify:track:2CPLGREl5ahzA2WPBMkpxh,2019
+Ballin' (with Roddy Ricch),Perfect Ten,Mustard,2019-06-28,180434,83,0.392,0.809,0.545,0.0,0.151,-6.678,0.0735,97.008,0.244,4,7,1,spotify:track:3QzAOrNlsabgbMwlZt7TAY,2019
+Mr. Know-It-All,Home of the Strange,Young the Giant,2016-08-12,191746,50,0.0185,0.627,0.871,0.0,0.117,-4.304,0.094,151.079,0.725,4,2,1,spotify:track:4gbKtqZDkNl6MrScQhfCt9,2016
+Your Love (Déjà Vu),Your Love (Déjà Vu),Glass Animals,2020-02-19,234372,64,0.019,0.854,0.671,0.383,0.105,-7.158,0.0543,107.994,0.631,4,7,1,spotify:track:5DYD4zlGiFlkpLaf2Bk8Vl,2020
+The Knife,Heard It In A Past Life,Maggie Rogers,2019-01-18,239333,53,0.0538,0.664,0.753,0.0,0.345,-4.734,0.0357,95.036,0.786,4,11,0,spotify:track:6axvsEl14rlaUWKEt9CSFR,2019
+Can You Do,Under My Influence,The Aces,2020-07-17,146681,37,0.000848,0.727,0.672,0.000862,0.0933,-5.212,0.0352,130.006,0.961,4,10,0,spotify:track:3No61pIRhlYzBMjhdxcNjZ,2020
+Personal,The Juice: Vol. I,Emotional Oranges,2019-05-10,225200,56,0.0973,0.825,0.523,3.32e-05,0.152,-7.021,0.0736,100.014,0.573,4,0,1,spotify:track:5jrr4qdmd6jmstVgHxCXMO,2019
+Tokyo Drifting,Dreamland,Glass Animals,2020-08-07,216821,66,0.12,0.715,0.438,0.000139,0.107,-9.874,0.0575,128.905,0.418,4,8,0,spotify:track:2MA6YoaFF7fnWqkuOAWjUg,2020
+Light On,Heard It In A Past Life,Maggie Rogers,2019-01-18,233880,72,0.201,0.657,0.569,1.38e-05,0.126,-6.287,0.0542,102.054,0.399,4,2,1,spotify:track:6UnCGAEmrbGIOSmGRZQ1M2,2019
+All My Friends,All My Friends,Madeon,2019-05-31,204626,50,0.0248,0.669,0.757,0.0,0.283,-4.259,0.0469,106.018,0.708,4,8,0,spotify:track:7sGTH1fber0bhncNMfNxmt,2019
+Brianstorm,Favourite Worst Nightmare (Standard Version),Arctic Monkeys,2007-04-24,170253,62,8.39e-05,0.421,0.98,0.00125,0.237,-4.229,0.212,165.193,0.435,4,1,1,spotify:track:5rTIpPWeO0IL4HWlGWrz5G,2007
+Domestic Bliss,Dreamland,Glass Animals,2020-08-07,198034,61,0.708,0.657,0.357,8.28e-06,0.0803,-10.922,0.0699,114.994,0.336,4,9,0,spotify:track:26E2fb3lp8MUEHq1WagF5f,2020
+The Sharpest Lives,The Black Parade,My Chemical Romance,2006-10-23,200880,68,0.000111,0.513,0.937,0.000102,0.083,-3.427,0.0532,155.015,0.543,4,1,0,spotify:track:2kMjk14RmYyYhhSbipoa9U,2006
+Close Your Eyes (And Count To Fuck),Run The Jewels 2,Run The Jewels,2014-10-24,234160,5,0.0123,0.678,0.662,0.0,0.133,-6.473,0.3,80.318,0.498,4,1,1,spotify:track:2Kn3xgaDCM4aHuHK7FApgC,2014
+Omen,Caracal (Deluxe),Disclosure,2015-09-25,230250,65,0.0614,0.723,0.678,0.0,0.372,-5.224,0.125,106.01,0.633,4,8,1,spotify:track:4kuPeLqTPXDkPB2injreCw,2015
+California Mistake,California Mistake,Caleb Henry,2020-04-17,262483,2,7.49e-05,0.364,0.894,0.0143,0.379,-6.191,0.0456,151.109,0.608,4,4,1,spotify:track:74d0GOcfEcBmyHxV89ZhW0,2020
+Hot Sugar,Dreamland,Glass Animals,2020-08-07,234865,65,0.0837,0.705,0.487,0.028,0.303,-9.456,0.0587,88.616,0.34,4,0,0,spotify:track:0r9OkYadpBgYA2bkkrRSsI,2020
+A Certain Romance,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-02-21,331200,57,0.000566,0.455,0.881,6.06e-05,0.11,-5.587,0.0401,137.949,0.201,4,11,1,spotify:track:2CbtdkBeW9Znt4vXTOafAl,2006
+Controller,Controller,Channel Tres,2018-04-17,208458,0,0.00469,0.888,0.696,0.296,0.0466,-6.597,0.0608,118.003,0.723,4,3,0,spotify:track:34aM4AadnV3foQ1cadQYr9,2018
+Out in the Way,What a Pleasure,Beach Fossils,2011-03-08,232007,0,0.00117,0.541,0.786,0.912,0.225,-6.731,0.0274,133.009,0.744,4,11,1,spotify:track:4M11VQwDGN8kk03um6s5ps,2011
+Helium,Dreamland,Glass Animals,2020-08-07,328232,65,0.854,0.289,0.307,0.275,0.255,-16.036,0.0452,96.516,0.0477,4,4,1,spotify:track:1yOc6FBOVD6zBwOMxiSEEv,2020
+Blue World,Circles,Mac Miller,2020-01-17,209440,80,0.389,0.742,0.553,0.0,0.0694,-8.98,0.419,84.931,0.508,4,8,1,spotify:track:2hwOoMtWPtTSSn6WHV7Vp5,2020
+Real's Not Real,Fishing For Fishies,King Gizzard & The Lizard Wizard,2019-04-26,220840,0,0.00172,0.297,0.762,0.555,0.408,-6.937,0.0428,159.685,0.592,3,11,1,spotify:track:1vnHnuDuD6JEm2aImSpCov,2019
+Caught Up,Ride Waves,GRiZ,2019-04-05,224901,34,0.000214,0.6,0.715,0.367,0.149,-7.091,0.044,130.099,0.543,4,7,0,spotify:track:3rbLA67u8t59Mbf5mlck3Y,2019
+Changing,All At Once,The Airborne Toxic Event,2011-01-01,200053,55,0.0186,0.613,0.913,0.0,0.084,-4.26,0.0545,102.524,0.641,4,8,1,spotify:track:6M23RkYPbVR91c4iWVNkcl,2011
+Paws,Mirror Maru - EP,Cashmere Cat,2012-10-22,262013,30,0.478,0.707,0.575,0.128,0.103,-6.629,0.0343,129.953,0.216,4,2,0,spotify:track:1v8sFvz8VBTTemAAydTtv0,2012
+You and I,You and I,Caribou,2019-12-04,243946,0,0.0661,0.729,0.526,0.145,0.109,-7.988,0.0312,111.921,0.442,4,9,0,spotify:track:5IBdGT5kl3wNblGeCpVYrH,2019
+Spiderhead,Melophobia,Cage The Elephant,2013-10-08,222813,65,0.00614,0.543,0.946,1.49e-05,0.106,-0.734,0.0454,117.962,0.547,4,2,1,spotify:track:5r5Lj2MkgwQJz6TaBdL865,2013
+Forever (feat. Run The Jewels),Forever (feat. Run The Jewels),Travis Barker,2020-07-30,171426,30,0.000321,0.459,0.909,0.0822,0.152,-6.77,0.259,169.855,0.605,4,1,1,spotify:track:3u5DWPT4s0w17L8LN8nCPg,2020
+Showdown,Zombie.P,Too Many Zooz,2019-09-17,210860,27,0.276,0.803,0.571,0.919,0.078,-7.417,0.115,148.001,0.569,4,9,0,spotify:track:1TtEwNWmDBMhQdegYF49H9,2019
+Dreamland,Dreamland,Glass Animals,2020-05-01,203492,54,0.883,0.253,0.352,0.00191,0.0668,-11.509,0.0357,141.97,0.099,5,8,1,spotify:track:5Bkw0lMhwk8tF4kMgCCJLv,2020
+Lost In Yesterday,The Slow Rush,Tame Impala,2020-02-14,249586,72,0.0295,0.569,0.84,0.000118,0.0995,-4.123,0.118,183.059,0.749,3,1,1,spotify:track:5JWPUEov2wlX7c0jhYZpeB,2020
+Halfway to the Hudson,Lucky Chops,Lucky Chops,2019-09-27,247805,34,0.00137,0.735,0.871,0.496,0.0724,-5.846,0.0315,117.99,0.943,4,11,0,spotify:track:0WRaMjFczNiE1WCqpGxAMv,2019
+Glide,Glide,Channel Tres,2018-08-03,266404,0,0.00297,0.734,0.568,0.739,0.0989,-12.769,0.0615,118.99,0.148,4,2,1,spotify:track:2ChSNCWDprSWvj9GZRKzZd,2018
+801,Under My Influence,The Aces,2020-07-17,214339,53,0.0031,0.71,0.79,0.00036,0.141,-6.758,0.0357,147.994,0.666,4,7,0,spotify:track:18uxxfbEuef5zO7KBaKfjV,2020
+Novacane,Novacane,Frank Ocean,2011-01-01,302346,79,0.0584,0.762,0.508,0.00126,0.16,-9.112,0.0919,93.51,0.37,4,3,1,spotify:track:4osgfFTICMkcGbbigdsa53,2011
+Mo' Momo!,Lucky Chops,Lucky Chops,2019-09-27,315789,38,0.00235,0.475,0.679,0.0924,0.368,-5.559,0.0334,139.922,0.244,4,0,1,spotify:track:59M05MYZ4uUvl3JHGMOtZk,2019
+Mama,The Black Parade,My Chemical Romance,2006-10-23,279026,72,0.0136,0.236,0.799,0.0,0.0948,-5.167,0.0939,208.951,0.303,4,4,0,spotify:track:0Zh3tKIphLOvQux4dA6PFZ,2006
+Edge of Seventeen - 2016 Remaster,Bella Donna (2016 Remastered),Stevie Nicks,1981-07-27,329413,72,0.327,0.591,0.804,5.98e-06,0.0818,-7.299,0.0454,111.457,0.658,4,0,1,spotify:track:7L3b6iaVhDVjfo52Hbvh9Z,1981
+If You Want To,Patched Up,beabadoobee,2018-12-07,223638,62,0.109,0.666,0.527,9.02e-05,0.132,-5.851,0.034,115.979,0.37,4,9,1,spotify:track:7I1kle4TNmkfednJDKo8GR,2018
+Sleep Drifter,Flying Microtonal Banana,King Gizzard & The Lizard Wizard,2017-02-24,284853,41,0.576,0.449,0.837,0.843,0.123,-6.656,0.0398,157.797,0.445,3,4,1,spotify:track:7lCj7wEXRJqptkSiIALQxN,2017
+Final Form,The Return,Sampa the Great,2019-09-13,216778,56,0.00876,0.69,0.889,0.00226,0.302,-6.689,0.166,96.02,0.761,4,11,0,spotify:track:6nUXH6o7OXDVykgwAtIIFU,2019
+Calling to You,California Mistake,Caleb Henry,2020-04-17,278592,2,0.0865,0.548,0.46,0.0,0.109,-5.805,0.0275,128.074,0.289,3,4,0,spotify:track:14fy8uqxWldFcRuznG5Vz7,2020
+Wanted,Zombie.P,Too Many Zooz,2019-09-17,161227,28,0.00275,0.814,0.989,0.855,0.0378,-6.079,0.0657,103.532,0.964,4,1,1,spotify:track:1SLybqQZsTJkrLBA0aDsKo,2019
+Tangerine,Dreamland,Glass Animals,2020-08-07,200583,71,0.114,0.845,0.583,0.000536,0.1,-5.948,0.0773,149.941,0.842,4,9,0,spotify:track:40rOlDoGejXXF4B0BYsjx8,2020
+Good News,Circles,Mac Miller,2020-01-17,342040,80,0.853,0.794,0.32,0.134,0.112,-12.92,0.173,174.088,0.241,4,1,0,spotify:track:1DWZUa5Mzf2BwzpHtgbHPY,2020
+Travelin' Pain,California Mistake,Caleb Henry,2020-04-17,226858,1,0.902,0.453,0.187,0.000344,0.112,-13.235,0.0309,76.925,0.236,4,0,1,spotify:track:6CCEtJp2doBuvdKG4XOHLF,2020
+Motion,The Juice: Vol. I,Emotional Oranges,2019-05-10,236506,57,0.016,0.777,0.58,6.8e-05,0.112,-7.806,0.034,105.994,0.768,4,5,0,spotify:track:0Z0bnTn6iu3ufyv7p1KmjH,2019
+All Mean Nothing,Under My Influence,The Aces,2020-07-17,233512,36,0.00767,0.662,0.788,5.46e-06,0.0578,-6.12,0.0416,95.001,0.769,4,0,1,spotify:track:61h5pknv1LbeTODmaqHcmH,2020
+Eet,Far,Regina Spektor,2009-06-09,230866,54,0.57,0.665,0.446,0.000669,0.082,-11.884,0.0439,141.94,0.172,4,1,1,spotify:track:0N9WhEz6DiBDvBxa6uJCTY,2009
+Famous Last Words,The Black Parade,My Chemical Romance,2006-10-23,299226,76,0.000321,0.467,0.883,0.000152,0.125,-3.679,0.106,122.252,0.309,4,2,0,spotify:track:2d6m2F4I7wCuAKtSsdhh83,2006
+West Coast Love,The Juice: Vol. II,Emotional Oranges,2019-11-08,215386,72,0.00666,0.696,0.65,0.153,0.14,-5.712,0.0326,91.997,0.587,4,4,0,spotify:track:4NFD9ea0uH0MtoC30yNYE1,2019
+New Emotion,Under My Influence,The Aces,2020-07-17,181150,43,0.0637,0.97,0.471,1.66e-06,0.0457,-7.244,0.0818,111.988,0.816,4,7,1,spotify:track:6PHVhlZ161zLLa2Zq3a7Ed,2020
+Topdown,Channel Tres,Channel Tres,2018-07-27,230013,1,0.0254,0.827,0.54,0.164,0.145,-8.543,0.0925,120.055,0.49,4,1,1,spotify:track:56dDonzTxrZKWuVDqUOYGd,2018
+Disenchanted,The Black Parade,My Chemical Romance,2006-10-23,295000,67,0.00218,0.343,0.692,0.0,0.112,-3.926,0.0355,174.07,0.153,4,2,1,spotify:track:6T7MAQCekVb3UnCykjX3BP,2006
+Tightrope,Mirror Master,Young the Giant,2018-10-12,238373,48,0.0107,0.847,0.727,2.41e-05,0.0788,-6.169,0.0485,118.021,0.724,4,0,1,spotify:track:7lLLFbYh5JpOTnQCetSfWn,2018
+On + Off,Heard It In A Past Life,Maggie Rogers,2019-01-18,221600,56,0.293,0.593,0.592,0.0,0.265,-6.162,0.0357,129.958,0.255,4,4,1,spotify:track:2kvwSbG26eHKUJdvH7DiR2,2019
+Evil Friends,Evil Friends,Portugal. The Man,2013-05-31,217841,48,0.00165,0.304,0.959,7.25e-05,0.129,-4.599,0.401,149.916,0.116,4,0,0,spotify:track:633TjzvG2smpc0aYgN9Xkd,2013
+Pink Elephant,Invisible People,Chicano Batman,2020-05-01,192240,36,0.135,0.547,0.544,0.00594,0.265,-5.946,0.126,84.948,0.642,4,1,1,spotify:track:5qBbTZ55OAYZQtAB36RytX,2020
+Daydream,Under My Influence,The Aces,2020-07-17,150792,65,0.0862,0.696,0.798,0.0,0.384,-5.541,0.0578,107.018,0.817,4,4,1,spotify:track:26ZCR1Zd74fvBJvH1o1rbx,2020
+Vienna,The Stranger (Legacy Edition),Billy Joel,1977,214240,82,0.659,0.532,0.495,0.0,0.0754,-6.662,0.0343,124.936,0.308,4,10,1,spotify:track:4U45aEWtQhrm8A5mxPaFZ7,1977
+YOU,17 HERO,Morgan Saint,2017-10-13,231813,52,0.841,0.385,0.413,0.000968,0.128,-11.058,0.0696,143.225,0.153,4,8,1,spotify:track:1DjjssAfCcElLoXDVRLq0Q,2017
+He Can Only Hold Her,Back To Black,Amy Winehouse,2006-10-27,164880,53,0.0262,0.651,0.835,0.00685,0.056,-4.311,0.0649,98.411,0.692,4,6,0,spotify:track:0sSdFMuYrn3N9moumV466B,2006
+Every Part of Me,California Mistake,Caleb Henry,2020-04-17,249056,1,0.734,0.471,0.192,1.09e-06,0.103,-12.207,0.0361,72.605,0.3,4,5,1,spotify:track:2UhM3oCd6ch0oHJ8qQCipx,2020
+Jet Black,Jet Black,Channel Tres,2018-07-13,194285,0,0.00251,0.879,0.58,0.00487,0.0996,-8.025,0.0684,104.981,0.348,3,1,1,spotify:track:6t7FyHs0LNq2XqeRDyx9BD,2018
+Stand Back,Timespace - The Best Of Stevie Nicks,Stevie Nicks,1991-08-30,297093,58,0.00736,0.638,0.783,0.0447,0.0381,-9.455,0.0435,115.269,0.637,4,11,0,spotify:track:6sleEAnBH0sZMe0pOQNidG,1991
+Retrograde,Heard It In A Past Life,Maggie Rogers,2019-01-18,251000,55,0.00373,0.73,0.774,0.00412,0.692,-5.5,0.0463,101.01,0.326,4,1,1,spotify:track:3lHtxy7keWMXYBQU5LkUXH,2019
+Long Road Home,California Mistake,Caleb Henry,2020-04-17,314521,2,0.123,0.465,0.454,2.64e-05,0.159,-6.328,0.0268,140.973,0.21,4,7,1,spotify:track:74nw8ppdk6xfSyl0JPt5mx,2020
+Mirror Master,Mirror Master,Young the Giant,2018-10-12,249746,42,0.000614,0.463,0.859,0.0,0.413,-4.518,0.0508,159.906,0.671,4,9,1,spotify:track:4s8PTe1uUoqcaAmveIKAxJ,2018
+Dead!,The Black Parade,My Chemical Romance,2006-10-23,195520,72,0.0037,0.481,0.973,0.000877,0.325,-1.945,0.0542,99.331,0.362,4,7,1,spotify:track:0uukw2CgEIApv4IWAjXrBC,2006
+Say It,Heard It In A Past Life,Maggie Rogers,2019-01-18,220960,63,0.208,0.557,0.496,0.00824,0.147,-7.184,0.0332,84.912,0.248,4,10,1,spotify:track:6PyZGb1rB7oLKCICWTmGYa,2019
+Compromise Line,California Mistake,Caleb Henry,2020-04-17,243181,1,0.000964,0.493,0.681,0.0581,0.238,-7.062,0.0259,90.966,0.58,4,7,1,spotify:track:5pUcs7koKAJGSQGgb2xfOi,2020
+Zillionaire,Under My Influence,The Aces,2020-07-17,193262,43,0.0208,0.755,0.691,0.0,0.337,-6.184,0.0546,106.997,0.783,4,2,0,spotify:track:16g5WqsO9KZCHM9vOpDbWb,2020
+House of Wolves,The Black Parade,My Chemical Romance,2006-10-23,184000,66,0.000347,0.445,0.977,0.0235,0.126,-2.674,0.0995,105.825,0.239,4,0,1,spotify:track:7j2Bmzpnf6RwEWEQ2sv8Ho,2006
+Past Life,Heard It In A Past Life,Maggie Rogers,2019-01-18,216026,51,0.937,0.483,0.099,0.0,0.0759,-11.179,0.0348,110.34,0.263,4,9,0,spotify:track:3Y8XpUFQzTGSEDuApfyJV1,2019
+Ain't Like the Rest,California Mistake,Caleb Henry,2020-04-17,212990,2,0.0656,0.555,0.669,6.1e-05,0.149,-5.055,0.0328,99.027,0.613,4,9,1,spotify:track:0YLt8Fhc4cK0GEcPbswLyT,2020
+Manuel's Story,Invisible People,Chicano Batman,2020-05-01,176360,29,0.0131,0.58,0.926,0.00492,0.668,-5.555,0.0383,148.729,0.842,4,2,0,spotify:track:5EzUY3i1aPjaGPNbSVJi7Q,2020
+Cancer,The Black Parade,My Chemical Romance,2006-10-23,142973,70,0.358,0.457,0.515,0.0,0.278,-4.31,0.0261,74.984,0.222,4,4,1,spotify:track:0GgN4MhR5GKn5IcKN0e0rG,2006
+Slippery People - 2005 Remaster,Speaking in Tongues (Deluxe Version),Talking Heads,1983-05-31,306320,49,0.00876,0.89,0.63,0.00218,0.0179,-9.661,0.0726,104.204,0.828,4,11,0,spotify:track:4M4xrAyXs4f7IW9IgIldJz,1983
+Lucy,California Mistake,Caleb Henry,2020-04-17,164600,1,3.11e-05,0.446,0.757,9.21e-06,0.131,-4.218,0.0324,149.045,0.759,4,9,1,spotify:track:71HkqRrGALdNSbnmFlpNzu,2020
+Black Day,Amniotic,Monolink,2018-04-20,337266,55,0.0757,0.826,0.34,0.057,0.082,-12.945,0.0729,116.001,0.0476,4,11,0,spotify:track:4iSsUBkriv6P5C8ncZ9Rr6,2018
+Boys in the Better Land,Dogrel,Fontaines D.C.,2019-04-12,300115,47,0.000292,0.392,0.973,2.35e-05,0.348,-5.02,0.0733,176.977,0.6,4,9,1,spotify:track:0iJX82OGewFWpyRtB8zzo4,2019
+Rice Rain,Wedding Bells,Cashmere Cat,2014-02-10,265100,32,0.337,0.71,0.633,0.372,0.0989,-7.421,0.0393,145.126,0.506,4,0,0,spotify:track:6uvU4ou8L52pBxQdxcbjxu,2014
+Level of Concern,Level of Concern,Twenty One Pilots,2020-04-09,220051,73,0.32,0.754,0.583,0.00015,0.144,-7.34,0.0432,122.012,0.77,4,4,0,spotify:track:6xZ4Q2k2ompmDppyeESIY8,2020
+LaLaLa,LaLaLa,Black Coffee,2019-09-10,217214,38,0.0792,0.731,0.78,0.0,0.104,-7.448,0.241,114.899,0.706,4,7,1,spotify:track:2H8BK1MZxFLAiMhKyKHDo4,2019
+Legend Has It,Run the Jewels 3,Run The Jewels,2016-12-25,205866,36,0.0249,0.829,0.563,0.0,0.0967,-7.082,0.254,120.965,0.469,4,7,1,spotify:track:4RnfMhMUMqHlrn4V6A3KfS,2016
+Cellophane,I'm In Your Mind Fuzz,King Gizzard & The Lizard Wizard,2014-10-31,190785,0,0.00213,0.43,0.887,0.914,0.12,-6.175,0.122,93.086,0.356,4,7,1,spotify:track:5wP8Kfjw289xNopU7ZJXYF,2014
+Rose,Rose,Inner Wave,2019-12-12,226090,56,0.00411,0.63,0.656,0.00012,0.156,-6.846,0.0357,96.035,0.949,4,5,1,spotify:track:7xTpmsgbuPTHv6mHZyH18v,2019
+Drones In The Valley,Cage The Elephant (Expanded Edition),Cage The Elephant,2009-03-24,147853,48,0.000299,0.505,0.887,0.0,0.532,-4.658,0.0379,133.97,0.85,4,0,1,spotify:track:2Tv7qvpjiI3xnHdvBtGLoZ,2009
+"Blockbuster Night, Pt. 1",Run The Jewels 2,Run The Jewels,2014-10-24,152253,4,0.0353,0.701,0.525,2.55e-06,0.0615,-7.938,0.382,75.693,0.385,4,1,0,spotify:track:5jQYkYhoOlBW4vJ2l4TCxl,2014
+The Game,California Mistake,Caleb Henry,2020-04-17,259564,0,0.725,0.407,0.13,5.18e-06,0.18,-14.989,0.0336,92.865,0.228,4,4,1,spotify:track:1bLaFAy8gEfD8IVqFzAgoI,2020
+Zombie Party,Zombie.P,Too Many Zooz,2019-09-17,262032,27,0.0371,0.89,0.897,0.76,0.0681,-5.835,0.0915,120.044,0.644,4,2,1,spotify:track:2GbedW4ntCE82Ic2XL8BBJ,2019

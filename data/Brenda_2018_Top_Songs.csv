@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year
+The Look,The English Riviera,Metronomy,2011-04-11,277653,73,0.623,0.638,0.535,0.0391,0.0837,-7.792,0.0415,84.947,0.504,4,9,0,spotify:track:6zfczP87XO2SxWlQtnjFNa,2011
+Rice Rain,Wedding Bells,Cashmere Cat,2014-02-10,265100,32,0.337,0.71,0.633,0.372,0.0989,-7.421,0.0393,145.126,0.506,4,0,0,spotify:track:6uvU4ou8L52pBxQdxcbjxu,2014
+The Other Side Of Paradise,How To Be A Human Being,Glass Animals,2016-08-26,320654,79,0.349,0.689,0.338,5.7e-05,0.0649,-7.634,0.0629,128.012,0.568,4,11,0,spotify:track:0rRjGruFonCGOt0S5zAJNQ,2016
+Teddy Picker,Favourite Worst Nightmare (Standard Version),Arctic Monkeys,2007-04-24,160640,62,0.000413,0.637,0.973,2.23e-05,0.104,-3.386,0.112,150.223,0.8,4,9,1,spotify:track:4OkPamOn5GofkOQu64Z4eR,2007
+He Can Only Hold Her,Back To Black,Amy Winehouse,2006-10-27,164880,53,0.0262,0.651,0.835,0.00685,0.056,-4.311,0.0649,98.411,0.692,4,6,0,spotify:track:0sSdFMuYrn3N9moumV466B,2006
+Stillness Is The Move,Bitte Orca,Dirty Projectors,2009-06-09,314320,42,0.109,0.569,0.542,4.38e-06,0.204,-5.784,0.134,76.309,0.53,4,0,1,spotify:track:08LAyogtI90hvNsyr1Hsdm,2009
+Romeo And Juliet,Sawdust,The Killers,2007-01-01,327866,61,0.43,0.611,0.397,8.89e-06,0.239,-8.47,0.0266,84.359,0.347,4,9,1,spotify:track:1kfrnPViuzKdNwmH21ehLg,2007
+Fake Nice,When My Heart Felt Volcanic,The Aces,2018-04-06,203646,45,0.00597,0.731,0.813,3.45e-05,0.0779,-4.071,0.0336,122.968,0.845,4,2,1,spotify:track:1OEIsjH8IxGMxu8AZEZKCe,2018
+Everything Hits at Once,Girls Can Tell,Spoon,2001-02-20,244240,0,0.211,0.784,0.574,0.00015,0.101,-8.105,0.0341,123.026,0.558,4,9,1,spotify:track:20gPDGp75RlBO8ojAytv5y,2001
+What Katie Did,The Libertines,The Libertines,2004,229840,0,0.0811,0.447,0.582,5.49e-05,0.105,-6.44,0.0394,169.449,0.45,4,9,1,spotify:track:39BYRAiJhO6fWPJTDYhMxm,2004
+Awoo (feat. Betta Lemme),Soft Animals,Sofi Tukker,2016-07-08,196719,45,0.0558,0.826,0.798,0.469,0.669,-5.078,0.0526,122.955,0.336,4,11,1,spotify:track:6ScDqdxJQzPOLztBP8TEuC,2016
+Put Me Thru,Malibu,Anderson .Paak,2016-01-15,160760,59,0.0459,0.732,0.789,3.11e-05,0.123,-3.717,0.0476,107.978,0.607,4,5,0,spotify:track:70SjyVMzhmMeJQD8hOmIBp,2016
+Bed I Made - Bonus Track,Radius (Deluxe Edition),Allen Stone,2016-03-25,196585,0,0.336,0.639,0.587,0.0,0.391,-7.341,0.101,79.97,0.539,4,1,0,spotify:track:3nRgbsG7mbt70pOQlCahuD,2016
+Black Mambo,ZABA (Deluxe),Glass Animals,2014-06-06,248920,50,0.298,0.675,0.41,0.000679,0.133,-10.699,0.0444,79.998,0.301,4,0,0,spotify:track:7bfjVe06NIMNzE9G2cO5fO,2014
+A Certain Romance,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-02-21,331200,57,0.000566,0.455,0.881,6.06e-05,0.11,-5.587,0.0401,137.949,0.201,4,11,1,spotify:track:2CbtdkBeW9Znt4vXTOafAl,2006
+Why Won't They Talk To Me?,Lonerism,Tame Impala,2012-01-01,286093,63,0.553,0.516,0.871,0.0282,0.0841,-5.21,0.0503,129.946,0.17,4,7,1,spotify:track:6IM45SqAURH6PrvziDs1RQ,2012
+Up In Hudson,Dirty Projectors,Dirty Projectors,2017-02-21,450544,36,0.382,0.677,0.733,0.0275,0.142,-6.99,0.0755,124.02,0.691,4,10,1,spotify:track:0A4yKvRLnSxGcEFhAHjdwW,2017
+"There, There",Hail To the Thief,Radiohead,2003,323600,0,0.0193,0.614,0.677,0.518,0.108,-8.317,0.0323,126.477,0.717,4,9,0,spotify:track:77SPrxY5gn6VPrKPGrfLnM,2003
+Mirror Maru,Mirror Maru - EP,Cashmere Cat,2012-10-22,242133,52,0.352,0.781,0.718,0.552,0.0981,-6.559,0.0394,129.956,0.154,4,1,1,spotify:track:52Pp8J18LYkyWL9OXhRUZh,2012
+Muted Beatings,Francis Trouble,Albert Hammond Jr,2018-03-09,196853,46,0.00224,0.47,0.877,1.06e-05,0.264,-5.499,0.0504,162.011,0.788,4,5,0,spotify:track:2iLkTMUJ2MCsry5yYiafCg,2018
+Lasso,Wolfgang Amadeus Phoenix,Phoenix,2009-01-01,167840,0,0.0243,0.646,0.652,0.000369,0.118,-6.95,0.0343,150.942,0.949,4,11,1,spotify:track:7GUVaGNiu11HXN2aqF6Rir,2009
+Islands,xx,The xx,2009-08-18,160720,0,0.74,0.871,0.472,0.286,0.145,-11.077,0.0756,124.04,0.707,4,4,1,spotify:track:27BpBnTNtY9SBrE3EusnM6,2009
+Rainy Taxi,They Want My Soul,Spoon,2014-08-05,238186,39,0.0266,0.685,0.943,0.000587,0.0829,-1.865,0.0537,146.03,0.934,4,7,0,spotify:track:3RT6bUy53Jshe5eZqDOmkv,2014
+Sister,El Camino,The Black Keys,2011-12-06,205186,56,0.00191,0.757,0.661,5.77e-05,0.141,-5.908,0.0291,111.64,0.617,4,2,1,spotify:track:5LCuFER5mMzL0fGNpClksf,2011
+Mama's Gun,How To Be A Human Being,Glass Animals,2016-08-26,266747,62,0.699,0.46,0.314,4.03e-06,0.122,-10.158,0.0267,90.014,0.216,4,6,0,spotify:track:5o4znEHwozOHIgHoWAllnr,2016
+Suck It and See,Suck It and See,Arctic Monkeys,2011-06-07,225986,53,0.00105,0.339,0.932,0.114,0.255,-5.017,0.057,128.291,0.586,4,4,1,spotify:track:3UZfvX4ky5C4mblUIR0LE1,2011
+Anna,In the Belly of the Brazen Bull,The Cribs,2012-05-07,183466,0,0.000411,0.365,0.977,0.000186,0.126,-3.391,0.103,133.389,0.276,4,7,1,spotify:track:6Ki9YDPLWBXWVFvfUFjbIb,2012
+Hard To Explain,Is This It,The Strokes,2001-07-30,224333,62,0.000455,0.408,0.666,0.862,0.0889,-6.286,0.0578,82.523,0.666,4,7,1,spotify:track:0OM9ri37LIbPc9hffwsyb1,2001
+Where Will We Go,Supermegafantastic,IAMDYNAMITE,2012-03-13,183946,42,0.0066,0.689,0.78,0.000489,0.33,-6.1,0.0639,96.397,0.366,4,1,0,spotify:track:2lTcjyNolq1zsDCevBAKvc,2012
+Sweetie Little Jean,Tell Me I'm Pretty,Cage The Elephant,2015-12-18,224893,65,0.0285,0.524,0.532,7.86e-05,0.242,-6.07,0.026,135.678,0.367,4,6,0,spotify:track:4dpEYOPcmHNfvERbiajp3G,2015
+Cannibal Resource,Bitte Orca,Dirty Projectors,2009-06-09,234920,30,0.427,0.557,0.829,0.000118,0.101,-5.164,0.0707,77.181,0.613,4,7,1,spotify:track:0j2KwO3oDy6Zo6Gjn4RWlk,2009
+Nobody Really Cares If You Don't Go to the Party,"Sometimes I Sit and Think, and Sometimes I Just Sit",Courtney Barnett,2015-03-24,166080,39,1.64e-05,0.421,0.93,0.128,0.341,-5.133,0.0741,136.688,0.574,4,9,1,spotify:track:4DJamulehuGcPiPOaQlCAa,2015
+Never Never,Can't Stand Me Now,The Libertines,2004-08-09,147133,0,0.000402,0.671,0.818,0.000898,0.0664,-4.322,0.0647,111.533,0.624,4,11,1,spotify:track:7rC2rtwUm2blDIPmGfs9op,2004
+In Cold Blood,RELAXER,alt-J,2017-06-02,206026,58,0.142,0.495,0.745,0.000441,0.194,-5.475,0.035,143.398,0.589,4,11,0,spotify:track:0jeJR3LdrC2QJNviq7wjzp,2017
+Crystalised,xx,The xx,2009-08-18,201946,0,0.812,0.763,0.484,0.393,0.0841,-12.368,0.0311,122.913,0.416,4,11,0,spotify:track:1nmCmB3qdXrzxFhvLJuhuB,2009
+Cocoa Hooves,ZABA,Glass Animals,2014-06-03,271906,58,0.46,0.53,0.275,1.12e-05,0.0729,-13.868,0.0349,133.973,0.0698,4,2,0,spotify:track:4Qw1VBxYRX2ieU9CADu8Co,2014
+The Ultracheese,Tranquility Base Hotel & Casino,Arctic Monkeys,2018-05-11,217720,54,0.624,0.476,0.555,3.98e-05,0.126,-6.551,0.0404,131.497,0.426,3,9,1,spotify:track:4VysGAsuHWHDxasPnTgwbo,2018
+Miss Right,Venice,Anderson .Paak,2014-10-28,198713,50,0.00344,0.819,0.521,0.366,0.204,-7.328,0.216,96.419,0.715,4,10,0,spotify:track:3xc7EvYaIA0El81QVSwdhg,2014
+Undercover Martyn,Tourist History,Two Door Cinema Club,2010-02-07,167773,0,0.00043,0.439,0.86,1.68e-05,0.0783,-4.824,0.168,159.821,0.578,4,11,0,spotify:track:2jnvdMCTvtdVCci3YLqxGY,2010
+Shoot the Poets,"Men's Needs, Women's Needs, Whatever",The Cribs,2007-05-12,207160,17,0.639,0.616,0.549,0.157,0.374,-8.265,0.0364,128.545,0.535,4,1,1,spotify:track:3tjKKzxMMv7oMVdwcc21u6,2007
+Sur la planche 2013,Psycho Tropical Berlin,La Femme,2013-04-20,229840,57,0.0582,0.46,0.804,0.0327,0.111,-4.735,0.0397,186.015,0.182,4,9,0,spotify:track:1su9FWmWVgf71pqY78k5Ib,2013
+Physical,I Don't Like Being Honest,The Aces,2017-06-23,194626,35,0.029,0.621,0.845,0.0,0.0621,-4.824,0.141,123.968,0.466,4,2,1,spotify:track:52LutCwWsmNxMNWS6pnam5,2017
+Warriors,Subway Gawdz,Too Many Zooz,2016-07-06,211036,40,0.00975,0.615,0.594,0.914,0.0744,-9.413,0.282,71.834,0.199,5,5,0,spotify:track:4keKh92BlOnRSEBeumCPM4,2016
+Cut You,Attack On Memory,Cloud Nothings,2012-01-24,196986,0,0.0033,0.287,0.915,0.0206,0.0997,-6.118,0.0391,149.025,0.693,4,6,0,spotify:track:3dSfZuoxpEuPqYhRwmIzln,2012
+Magma,Cycles of Existential Rhyme,Chicano Batman,2014-02-18,281866,48,0.364,0.609,0.668,0.0563,0.0848,-7.191,0.0471,82.533,0.514,4,1,0,spotify:track:1rUIpUlWtztoo3rVAuSTH4,2014
+Plastic Soldiers,Evil Friends,Portugal. The Man,2013-05-31,304000,47,0.0614,0.681,0.541,0.0134,0.0901,-9.279,0.0357,129.985,0.606,4,8,0,spotify:track:2VjySzgGQeZcMGWuPMAnBF,2013
+Toes,ZABA (Deluxe),Glass Animals,2014-06-06,254640,48,0.403,0.621,0.351,0.000253,0.325,-12.482,0.0411,145.978,0.277,4,1,0,spotify:track:2rzpeCJ9pACIsbDo071pQz,2014
+Pavement (Sofi Tukker Remix),Pavement (Sofi Tukker Remix),Stray Echo,2016-12-09,253770,41,0.0201,0.779,0.82,0.416,0.102,-7.408,0.046,121.993,0.442,4,4,0,spotify:track:7qSUe4qn5Wbk7Mnw0Tfii3,2016
+Brave as a Noun,People Who Can Eat People are the Luckiest People in the World,AJJ,2007-09-11,74960,64,0.193,0.492,0.611,0.0,0.691,-6.438,0.102,182.529,0.933,4,0,1,spotify:track:6bfPo8Ge3VoD4dEGSDs0R9,2007
+Best Friend,The Drums,The Drums,2010-06-04,206466,31,0.0274,0.652,0.846,1.44e-05,0.154,-5.989,0.0285,145.947,0.899,4,0,1,spotify:track:1YFauttuXCtBoyZsnZe3pQ,2010
+These Days,Be The Void (Deluxe Edition),Dr. Dog,2012-02-07,167306,39,0.236,0.42,0.915,0.00232,0.273,-3.476,0.0432,165.804,0.648,4,7,1,spotify:track:3BoBUG1fyUQvuDuGQnqPtp,2012
+The Dream,Carrion Crawler / The Dream,Thee Oh Sees,2011-11-08,412040,51,1.7e-05,0.162,0.959,0.475,0.245,-5.286,0.132,193.174,0.39,4,0,0,spotify:track:1JdweBSkJMLjnNW6LzmXJ8,2011
+Nova Baby,El Camino,The Black Keys,2011-12-06,207040,51,0.0054,0.556,0.702,0.0,0.218,-5.792,0.0423,132.33,0.452,4,4,0,spotify:track:5S7kFUo496CoItemffWQb9,2011
+Everything Looks Better (In Hindsight),The World We Built,The Wild Reeds,2017-04-07,328120,47,0.743,0.551,0.452,2.03e-05,0.177,-6.51,0.0238,97.95,0.107,3,9,0,spotify:track:4IL5B1c7iUHMA5Rr1ucNo6,2017
+"Of Moons, Birds & Monsters",Oracular Spectacular,MGMT,2007-12-14,286720,53,0.0218,0.598,0.899,0.0137,0.0814,-3.861,0.0424,124.061,0.403,4,1,0,spotify:track:0w8dULoVhTuC8x8m8PKwX7,2007
+Something Good,An Awesome Wave,alt-J,2012-09-18,217320,59,0.714,0.682,0.581,0.324,0.0802,-10.339,0.0295,108.981,0.539,4,7,1,spotify:track:3xqxETvPg43KWP0HOGiOmu,2012
+Dangerous,I See You,The xx,2017-01-13,250000,0,0.00224,0.774,0.709,0.00224,0.21,-6.166,0.0465,119.982,0.565,4,8,1,spotify:track:33B2QbtAj8mbDpwvGTOnBt,2017
+Pools,ZABA,Glass Animals,2014-06-03,288733,63,0.147,0.676,0.645,0.000173,0.125,-8.647,0.0393,105.072,0.226,4,0,1,spotify:track:7jO2B8Xgfu7D9vj60XiG7Y,2014
+Who The Fuck Are Arctic Monkeys?,Who The F*** Are Arctic Monkeys?,Arctic Monkeys,2006-05-09,336826,52,0.000216,0.348,0.896,0.0173,0.168,-7.63,0.0397,132.577,0.572,4,4,0,spotify:track:4MFQ0wsGuiKJrPNLUaCVnt,2006
+Death Spiral,Dirty Projectors,Dirty Projectors,2017-02-21,308267,27,0.139,0.555,0.64,3.49e-05,0.0987,-6.326,0.178,134.87,0.423,4,5,0,spotify:track:7M2Vba69lGmR6kWjUTJJQD,2017
+Black Out Days,Voices,Phantogram,2014-02-18,227160,81,0.00506,0.542,0.795,0.019,0.0851,-3.63,0.0368,92.234,0.431,4,4,0,spotify:track:2IWtloZYQDcP8Ashwx8QEF,2014
+Buckjump,For True,Trombone Shorty,2011-01-01,243720,40,0.0412,0.703,0.849,0.027,0.0529,-5.53,0.0367,105.025,0.716,4,2,1,spotify:track:2cK3xlFvwYYllEvP97I6nK,2011
+Something About Us,Discovery,Daft Punk,2001-03-12,232666,73,0.44,0.875,0.475,0.72,0.046,-12.673,0.0986,99.958,0.384,4,9,0,spotify:track:1NeLwFETswx8Fzxl2AFl91,2001
+The World Is Crowded,Multi-Love,Unknown Mortal Orchestra,2015-05-26,259600,0,0.463,0.645,0.527,0.00219,0.0952,-6.727,0.362,95.208,0.645,4,1,1,spotify:track:3GWVkWWgn7su8Z06oBjiiX,2015
+Window,In The Wind,MAGIC GIANT,2017-05-19,209613,58,0.00956,0.401,0.723,4.76e-05,0.0444,-5.549,0.0408,116.023,0.781,4,5,1,spotify:track:2TV9fAIDDJ3dMwJCj1a5pc,2017
+Amy Amy Amy,Frank,Amy Winehouse,2003-10-20,254727,35,0.0336,0.715,0.552,7.6e-05,0.0823,-8.307,0.244,80.031,0.618,4,0,1,spotify:track:0QB8q0DS3R1Q94x5aiW26O,2003
+Book Of Stories,The Drums,The Drums,2010-06-04,218213,33,0.736,0.517,0.803,0.00031,0.0984,-5.919,0.0369,164.033,0.908,4,6,1,spotify:track:6SWjngQJFEXIQdddvUog9z,2010
+She Knows (feat. Amber Coffman & Cults),Born Sinner,J. Cole,2013-06-14,296520,0,0.0192,0.766,0.739,0.0794,0.229,-10.364,0.0805,118.005,0.185,4,1,1,spotify:track:282L6SR4Y8Rs0VUgtEy1Zw,2013
+Fiction,Simple,Naked Walrus,2016-11-11,234240,1,0.0055,0.682,0.929,1.4e-06,0.374,-3.83,0.0321,124.996,0.456,4,1,0,spotify:track:0ASwdKtqyXjBeiV2kMJXZl,2016
+Reckless Serenade,Suck It and See,Arctic Monkeys,2011-06-07,162746,46,0.00037,0.585,0.694,0.0144,0.0724,-6.632,0.0392,127.966,0.785,4,2,1,spotify:track:4pDrMVAsQn0uqo9sb6C8E2,2011
+Cry for Me,Pain / Ache / Loving,HUNNY,2015-10-09,213706,0,0.00166,0.561,0.768,0.0,0.29,-4.884,0.0558,115.916,0.591,4,11,0,spotify:track:4vG2vtpzK05uFwi1ozBBUZ,2015
+You Belong To Me,Over And Over,The 88,2005-01-01,207893,39,0.902,0.476,0.282,1.52e-05,0.104,-8.98,0.0359,151.98,0.378,4,1,1,spotify:track:5TSz2XVImJFn2iXNt5jtvP,2005
+Your Cover's Blown,Books,Belle and Sebastian,2004,361786,0,0.0677,0.484,0.742,1.31e-06,0.344,-6.006,0.0667,109.111,0.394,4,11,0,spotify:track:3AqJhFxLyL3VPiFIg8JGjv,2004
+Hazey,ZABA,Glass Animals,2014-06-03,265893,60,0.00297,0.651,0.503,0.00783,0.112,-10.773,0.0381,89.993,0.398,4,1,1,spotify:track:0Zg4tjgfqw9qzq7lXX2sUM,2014
+Stray Cat Strut,Built For Speed,Stray Cats,1982-01-01,198000,55,0.0957,0.679,0.609,0.00113,0.0474,-9.482,0.0347,132.467,0.695,4,0,0,spotify:track:5yogRsv5ggT6iCnFgvdpho,1982
+Take It Easy,Astro Coast,Surfer Blood,2010-01-19,236693,0,0.372,0.673,0.746,0.00299,0.264,-6.593,0.0268,132.965,0.773,4,2,1,spotify:track:5oCyqEmLWOF3dDOtAr0fhU,2010
+Mind Mischief,Lonerism,Tame Impala,2012-01-01,271880,66,0.0815,0.25,0.942,0.00097,0.367,-3.235,0.0545,161.333,0.822,4,6,1,spotify:track:6ewQE1dNPv9qqlnB1CxrvM,2012
+Money Jar,Wayne Interest,Tijuana Panthers,2014,203072,0,0.00033,0.454,0.909,0.411,0.117,-5.084,0.0778,77.077,0.744,4,9,1,spotify:track:0zsFsXxBivIOiMdwF3nN6S,2014
+Poetic Justice,"good kid, m.A.A.d city (Deluxe)",Kendrick Lamar,2012,300160,76,0.157,0.779,0.572,0.0,0.246,-9.985,0.378,135.956,0.647,4,6,0,spotify:track:2P3SLxeQHPqh8qKB6gtJY2,2012
+Forrest Gump,channel ORANGE,Frank Ocean,2012-07-10,194840,71,0.0888,0.701,0.417,0.000648,0.375,-7.818,0.0329,95.003,0.186,4,6,0,spotify:track:4YZbVct8l9MnAVIROnLQdx,2012
+This House Is a Circus,Favourite Worst Nightmare (Standard Version),Arctic Monkeys,2007-04-24,189680,54,1.95e-05,0.472,0.909,0.00277,0.644,-5.349,0.0584,155.311,0.388,4,7,1,spotify:track:7gPd55hW5pVjTm3H9S1Wbv,2007
+Stuck on the puzzle,Submarine - Original Songs From The Film By Alex Turner,Alex Turner,2011-03-15,211053,59,0.0792,0.58,0.682,0.0316,0.161,-8.523,0.0332,77.53,0.774,4,4,1,spotify:track:7w6QlKAOcNEnqRgrnJvQtr,2011
+Where the Lines Overlap,Brand New Eyes,Paramore,2009-09-28,198746,52,8.63e-05,0.445,0.968,0.00202,0.309,-3.559,0.103,159.977,0.629,4,4,1,spotify:track:0ZgpvjwRIwTEUkDPWHhTE3,2009
+Welcome To Japan,Comedown Machine,The Strokes,2013-03-25,230826,65,0.00233,0.705,0.666,0.0149,0.174,-7.23,0.0303,124.032,0.646,4,2,0,spotify:track:7bfocP7GYoLOutUYpTI8tx,2013
+So Good at Being in Trouble,II (Deluxe Edition),Unknown Mortal Orchestra,2013-10-22,230146,2,0.0363,0.829,0.435,0.878,0.119,-10.136,0.0515,103.816,0.594,4,0,1,spotify:track:0LPODKihyn7XCxFevkE3KY,2013
+Turn On Me,Wincing The Night Away,The Shins,2007-01-23,221840,0,0.00109,0.565,0.881,2.17e-05,0.106,-4.475,0.0356,121.972,0.427,4,0,1,spotify:track:5nfe5aPK3Qh5zC4oo5KXbO,2007
+Paws,Mirror Maru - EP,Cashmere Cat,2012-10-22,262013,30,0.478,0.707,0.575,0.128,0.103,-6.629,0.0343,129.953,0.216,4,2,0,spotify:track:1v8sFvz8VBTTemAAydTtv0,2012
+Heartbeat,Camp,Childish Gambino,2011-01-01,269840,0,0.00545,0.8,0.569,0.000319,0.0542,-6.843,0.119,119.954,0.325,4,1,0,spotify:track:3HooZZPp0evFShqaJ2Pwer,2011
+Peepin' Tom,Lotta Sea Lice,Courtney Barnett,2017-10-13,254693,0,0.728,0.488,0.307,0.0,0.125,-7.076,0.0298,88.826,0.464,4,10,0,spotify:track:6onpxyGxkIGYlm33T36Zqn,2017
+Creepin Up The Backstairs - Composite Edit (do not put on a/w),Costello Music,The Fratellis,2007-01-01,186266,44,0.000319,0.591,0.962,1.48e-06,0.175,-4.024,0.229,122.392,0.289,4,11,0,spotify:track:0fJAwqDzQiMEAcM3tymJJh,2007
+Me & Mr Jones,Back To Black,Amy Winehouse,2006-10-27,151573,60,0.537,0.59,0.803,0.0,0.105,-2.518,0.085,87.851,0.477,4,4,1,spotify:track:5RqIM2vv5nw2PGJBqPD8Rg,2006
+From The Ritz To The Rubble,"Whatever People Say I Am, That's What I'm Not",Arctic Monkeys,2006-02-21,193426,58,0.00147,0.216,0.882,0.0,0.308,-5.176,0.0439,189.286,0.656,4,11,0,spotify:track:7gsArdm7rk6X6wsMr2QKWS,2006
+Stuck,I Don't Like Being Honest,The Aces,2017-06-23,206466,52,0.0114,0.721,0.746,0.0952,0.0844,-4.247,0.0317,124.968,0.705,4,6,0,spotify:track:0x8VeSHmhbRl9EUAdsEx6A,2017
+Coins,Sunlit Youth,Local Natives,2016-09-09,237693,62,0.0578,0.566,0.576,0.0,0.0523,-4.859,0.0365,138.045,0.607,4,5,1,spotify:track:53I7CviVHhNYEKth717RLG,2016
+If I Was A Folkstar,Wildflower,The Avalanches,2016-07-08,273253,56,0.575,0.669,0.917,0.801,0.0968,-8.06,0.0471,123.179,0.923,4,10,1,spotify:track:27Es1J9GNKf0pZLy3sdzjl,2016
+The Video Dept.,Clinging To A Scheme,The Radio Dept.,2010-01-01,205280,0,0.0202,0.396,0.938,0.944,0.127,-5.978,0.0364,147.048,0.447,4,4,1,spotify:track:5Ek17fBK5XaIQK9Em7a423,2010
+A Well Respected Man,Kinda Kinks,The Kinks,1965-03-05,161586,60,0.297,0.53,0.873,0.0,0.0521,-5.105,0.118,162.154,0.583,4,4,0,spotify:track:5e3isD5st7PGYzSJuoRSIV,1965
+Voodoo - Bonus Track,Radius (Deluxe Edition),Allen Stone,2016-03-25,189829,0,0.558,0.845,0.511,6.83e-05,0.712,-7.199,0.101,74.001,0.862,4,4,0,spotify:track:3d8bwfpVTz65lIw7xo6uVJ,2016
+Book of Revelation,Portamento,The Drums,2011-09-06,210155,40,0.0331,0.602,0.725,7.12e-06,0.0628,-5.582,0.0633,179.979,0.453,4,7,1,spotify:track:34xKCCufqJSuEjqXJ0RzRY,2011
+Life Itself,How To Be A Human Being,Glass Animals,2016-08-26,281406,70,0.0147,0.699,0.67,0.22,0.356,-6.219,0.0347,111.988,0.556,4,1,1,spotify:track:32zkKx35Et6A515oZKxDkD,2016

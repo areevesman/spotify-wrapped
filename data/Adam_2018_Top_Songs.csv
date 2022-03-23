@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year
+Slow Burn,Around the World and Back (Deluxe),State Champs,2015,188160,45,0.000858,0.544,0.918,0.0,0.0768,-3.875,0.0685,129.018,0.668,4,8,1,spotify:track:1smfaaFx8ulrGRh20sSZkc,2015
+Placeholder,Under Soil and Dirt,The Story So Far,2011-06-21,185733,51,0.0595,0.416,0.969,0.0,0.104,-2.361,0.0611,182.038,0.449,4,2,1,spotify:track:38sLZRXFfJPAeqFE0SX3NS,2011
+"Heroes Get Remembered, Legends Never Die",Rise or Die Trying,Four Year Strong,2007-09-18,215760,50,0.00105,0.429,0.964,0.0,0.277,-4.09,0.178,163.06,0.525,4,2,1,spotify:track:73egERbXJYHKWUgCVEkUtK,2007
+Cute Without The 'E' (Cut From The Team),Tell All Your Friends,Taking Back Sunday,2002-03-26,211546,1,0.0394,0.402,0.859,0.0,0.0745,-4.41,0.0466,95.31,0.514,4,1,0,spotify:track:6PsISpFaCEKwysPfwO9SfC,2002
+Worse Than This,Walk the Plank,zebrahead,2015-10-16,203694,0,0.00363,0.398,0.994,1.2e-05,0.368,-3.204,0.184,197.161,0.51,4,8,1,spotify:track:0YVWaWlb8MAf2VW55ZkRaQ,2015
+All Downhill From Here,Catalyst,New Found Glory,2004-05-18,192426,61,8.31e-05,0.428,0.934,0.000431,0.108,-4.061,0.0926,167.988,0.724,4,9,1,spotify:track:5dpDrUG52yI3s1AQRlaypA,2004
+Mess,The Home Inside My Head,Real Friends,2016-05-27,188493,53,7.23e-06,0.508,0.92,0.864,0.0853,-4.387,0.0489,90.027,0.699,4,1,1,spotify:track:1mjcyWQPFsoG1Cb6Gl33Tk,2016
+Everchanging,The Unraveling (Re-Issue),Rise Against,2005-08-30,227026,42,0.000432,0.466,0.996,0.0294,0.304,-3.768,0.251,147.214,0.148,4,0,1,spotify:track:0Ua9vUyNzl4PVtatUjaURv,2005
+Want Me Around,Shapeshifter,Knuckle Puck,2017-10-13,211100,51,0.00699,0.452,0.962,1.01e-05,0.0997,-3.225,0.127,101.885,0.527,4,0,0,spotify:track:1hWlZxzZWiXRkQy7ywSAmh,2017
+Best of Me,Common Courtesy,A Day To Remember,2013-11-25,207778,0,0.00123,0.439,0.968,0.0,0.242,-3.21,0.159,160.055,0.655,4,6,0,spotify:track:10j4RuFfe9XnCQS9020wjb,2013
+Calling All Skeletons,Damnesia,Alkaline Trio,2011-07-12,211053,33,0.0156,0.609,0.794,0.0,0.106,-6.482,0.0429,131.935,0.703,4,1,1,spotify:track:018pviJYXwS1A3UT50PPnG,2011
+Crystal Ball,Crystal Ball,State Champs,2018-05-07,192381,26,0.00294,0.452,0.971,1.35e-05,0.294,-2.918,0.101,182.972,0.875,4,8,1,spotify:track:2whG9W1yoHPSQHIGu6B8Qm,2018
+Good Times Bad Times - 1993 Remaster,Led Zeppelin,Led Zeppelin,1969-01-12,166266,71,0.0382,0.476,0.717,7.61e-05,0.0818,-9.192,0.0949,93.584,0.753,4,9,1,spotify:track:0QwZfbw26QeUoIy82Z2jYp,1969
+Find My Way Back,Enemy Of The World,Four Year Strong,2010,208040,43,0.000105,0.496,0.992,0.0,0.562,-3.963,0.172,106.171,0.125,4,0,1,spotify:track:0y9T7SuTGJHeamj2BOc2iP,2010
+Solo,The Story So Far,The Story So Far,2015-05-18,157880,50,0.00676,0.501,0.969,0.0,0.282,-3.146,0.062,107.391,0.3,4,1,1,spotify:track:6YuBA0OqrYdgRGNuYSlb3R,2015
+Wasted,Playmate Of The Year,zebrahead,2000-10-17,234160,20,0.00321,0.403,0.92,0.0678,0.17,-6.088,0.108,168.139,0.492,4,4,1,spotify:track:5u7nBaUyPZY6QHkWF6Bn0U,2000
+(If You're Wondering If I Want You To) I Want You To,Raditude,Weezer,2009-11-03,208773,40,0.00163,0.695,0.873,0.000198,0.154,-5.722,0.0392,110.021,0.799,4,11,0,spotify:track:7akwKkIS6sp7Orbq7LEj5a,2009
+Tyson vs Douglas,Wonderful Wonderful,The Killers,2017-09-22,273706,47,0.00255,0.494,0.933,0.112,0.109,-3.997,0.151,159.862,0.308,4,2,1,spotify:track:4LCQ5gFmkAdACy5O9vDP4c,2017
+Stay Together For The Kids,Take Off Your Pants And Jacket,blink-182,2001,239333,68,0.00165,0.519,0.78,2.14e-05,0.156,-4.939,0.0356,145.125,0.166,4,2,1,spotify:track:3YD9EehnGOf88rGSZFrnHg,2001
+Gates of Hell,Collide and Conquer,Hunter Valentine,2012-10-22,171613,4,0.00035,0.43,0.898,2.98e-05,0.283,-6.074,0.0801,177.981,0.547,4,2,1,spotify:track:4u8yupokHFIdazVc0OLrmR,2012
+I Don’t Want To Be Here Anymore,The Black Market,Rise Against,2014-01-01,239960,60,0.000759,0.236,0.971,3.87e-05,0.172,-3.98,0.0987,159.001,0.403,4,6,0,spotify:track:6qtg4gz3DhqOHL5BHtSQw8,2014
+It's Not Your Fault,Coming Home,New Found Glory,2006-01-01,217413,39,0.00307,0.509,0.947,0.0,0.0867,-4.308,0.0739,129.831,0.473,4,9,1,spotify:track:6mWaIL3wd4XtxBZlvams5f,2006
+Never There,Prolonging the Magic,CAKE,1998-02-05,164266,64,0.0426,0.761,0.735,0.0838,0.0917,-8.171,0.043,125.815,0.592,4,9,0,spotify:track:7aKWgpecgLEqisWcXPElDl,1998
+Tonight,Seether: 2002-2013,Seether,2013-01-01,224974,36,2.14e-05,0.593,0.929,0.0869,0.123,-4.355,0.0349,125.014,0.524,4,9,1,spotify:track:6E4znBOjdrHZUEYEmkVz1C,2013
+It Must Really Suck To Be Four Year Strong Right Now,Enemy Of The World (Special Edition),Four Year Strong,2010-01-01,196146,36,0.000149,0.248,0.979,2.39e-05,0.366,-3.787,0.229,168.188,0.343,4,2,1,spotify:track:1WxU2gzm360coppgmRQ6ua,2010
+Better Off This Way,What Separates Me From You,A Day To Remember,2010,206360,0,9.33e-05,0.379,0.965,0.0,0.371,-3.442,0.0975,160.057,0.565,4,4,1,spotify:track:5TtOrriDfiamVEKrls2GIT,2010
+Perfect Score,Around the World and Back,State Champs,2015-10-16,198453,41,8.66e-05,0.573,0.964,0.0,0.299,-4.082,0.0453,110.031,0.735,4,1,1,spotify:track:6VrMCe9krC0d54cWt7jnnR,2015
+Hello Tomorrow,MFZB,zebrahead,2003-10-21,244160,0,0.000454,0.46,0.948,2.48e-05,0.277,-5.375,0.173,154.908,0.494,4,8,0,spotify:track:0icYxb0n9T4MUi3QC2Rxux,2003
+Do It Again,Come Dancing with the Kinks (The Best of the Kinks 1977-1986),The Kinks,1986-06-01,249560,0,0.149,0.571,0.872,0.00293,0.373,-10.343,0.0438,132.105,0.673,4,7,1,spotify:track:5JIUvtu1UwoaBanmIGHv3m,1986
+Stockholm Syndrome,blink-182,blink-182,2003-01-01,161133,39,0.00904,0.394,0.989,1.34e-05,0.144,-3.001,0.0881,173.182,0.487,4,0,1,spotify:track:2wMqxbWlfIIaVzpYtFG4HY,2003
+Mercy Me,Crimson,Alkaline Trio,2005-05-24,169497,62,0.0207,0.472,0.88,0.0,0.354,-5.354,0.0495,162.171,0.805,4,9,1,spotify:track:2YrB3vM3H7TcXZ0rAq4X8Y,2005
+Face Everything And Rise,F.E.A.R.,Papa Roach,2015-01-27,190586,56,3e-05,0.414,0.989,0.0,0.301,-2.257,0.0799,139.964,0.359,4,8,1,spotify:track:5K7RDuh2JihPUScuOB76Sq,2015
+Here We Are,Phobia (Explicit Version),Breaking Benjamin,2006-01-01,258586,49,6.71e-05,0.449,0.811,0.00105,0.0851,-4.006,0.0315,130.899,0.195,4,0,0,spotify:track:7Bncv4ahH3qUJydCBzSwao,2006
+Sassafras Roots,Dookie,Green Day,1994-02-01,157626,55,5.03e-05,0.172,0.97,0.00479,0.257,-5.104,0.0409,182.451,0.881,4,8,1,spotify:track:4oqF9y2thGJh7hFd1hqItt,1994
+Bonfire,Ursa Major,Third Eye Blind,2009-08-17,249906,43,0.0134,0.488,0.839,0.0,0.101,-7.336,0.0487,178.006,0.55,4,9,1,spotify:track:2BqHokpi0AZXmUm8ucIuy6,2009
+Bada Bing! Wit' a Pipe!,Rise or Die Trying,Four Year Strong,2007-09-18,201533,43,0.00579,0.428,0.953,0.0,0.241,-4.475,0.109,181.065,0.796,4,2,1,spotify:track:4CmMW6ll5Tzt4m4Mo5rM2v,2007
+Everchanging - Acoustic,Long Forgotten Songs: B-Sides & Covers 2000-2013,Rise Against,2013-01-01,261906,43,0.519,0.544,0.381,1.46e-06,0.116,-6.111,0.0341,120.025,0.233,4,11,1,spotify:track:3kBsC6wa9kCRRreFZnw4C4,2013
+Don't Let Her Pull You Down,Not Without A Fight,New Found Glory,2009-03-10,208266,39,0.00521,0.472,0.988,1.44e-05,0.336,-3.007,0.111,96.028,0.483,4,4,1,spotify:track:5ab6WsStT9zSlNZ9CSArje,2009
+Keep It to Myself,Walk the Plank,zebrahead,2015-10-16,179178,0,0.00648,0.669,0.936,2.97e-06,0.393,-4.096,0.054,165.042,0.96,4,1,1,spotify:track:7uoygFo9tFLr53bNLjuc4M,2015
+Roam,Under Soil and Dirt,The Story So Far,2011-06-21,174573,54,0.000569,0.507,0.995,1.28e-05,0.0686,-2.355,0.0829,123.889,0.219,4,4,1,spotify:track:5vjR4LUikpN6LhpxRWK6k2,2011
+Not Now,Greatest Hits,blink-182,2005-10-31,263573,57,0.00236,0.58,0.93,5.5e-05,0.0768,-5.17,0.0618,106.022,0.285,4,2,1,spotify:track:28yCMEplHbodvR19Aipah8,2005
+Gone,Shapeshifter,Knuckle Puck,2017-10-13,185419,52,0.000207,0.376,0.961,1.02e-05,0.111,-4.162,0.261,120.263,0.33,4,6,1,spotify:track:2MyUIH6eOOfzgxAEw8qz5R,2017
+Losing Myself,Around the World and Back,State Champs,2015-10-16,197470,44,0.000115,0.545,0.939,6.7e-06,0.129,-4.009,0.0671,130.03,0.558,4,5,0,spotify:track:1Pp22pJ31jDQ76uXRtHaMH,2015
+Shepherd of Fire,Hail to the King,Avenged Sevenfold,2013-08-23,323800,72,0.000332,0.576,0.906,0.0614,0.0908,-7.677,0.0571,127.935,0.211,4,2,1,spotify:track:1fQaoh3imrMunWVZh5kf90,2013
+Wish You Were Here,Morning View,Incubus,2001-10-23,212733,73,0.000631,0.246,0.768,0.301,0.102,-7.48,0.0387,169.873,0.35,4,9,1,spotify:track:6KtLECDztnah63TNmV4Plw,2001
+Coming Back Down,American Tragedy (Deluxe Edition),Hollywood Undead,2011,202946,52,0.0152,0.382,0.899,0.0,0.363,-3.563,0.233,94.774,0.552,4,2,1,spotify:track:2IWGina76PKXgV3vhXuN6c,2011
+London,Vacation,Seaway,2017-09-15,181334,31,0.000609,0.564,0.972,6.28e-05,0.0652,-3.657,0.0615,130.057,0.641,4,3,1,spotify:track:2jIUwHF0mFWl62CHQDFunb,2017
+Raised By Wolves,The Drug In Me Is You,Falling In Reverse,2011-07-26,204693,62,0.0346,0.368,0.871,0.0,0.0599,-3.395,0.106,84.585,0.527,4,2,0,spotify:track:4vqmSmLC0dbw1UF7mmUDZe,2011
+"Heroes Get Remembered, Legends Never Die","Some of You Will Like This, Some of You Won't",Four Year Strong,2017-09-10,245213,24,0.803,0.574,0.508,1.08e-06,0.148,-8.372,0.0277,138.146,0.488,4,5,1,spotify:track:5GcSA1mDvn4GyuPU0XHm8h,2017
+Under Cover of Darkness,Angles,The Strokes,2011-03-21,235546,71,0.00433,0.35,0.775,0.283,0.0676,-3.364,0.054,199.866,0.588,4,11,1,spotify:track:6u0x5ad9ewHvs3z6u9Oe3c,2011
+Out of It,Out of It,The Story So Far,2017-09-14,161523,40,1.37e-05,0.282,0.961,0.0478,0.303,-3.273,0.116,172.954,0.469,4,7,1,spotify:track:73QyfpApOMk3fApexIedBR,2017
+Your Time Is Gonna Come - Remaster,Led Zeppelin (Deluxe Edition),Led Zeppelin,1969-01-12,274693,39,0.351,0.328,0.575,0.000556,0.688,-10.437,0.0439,149.645,0.249,4,7,1,spotify:track:0by20SqfRktdZ6hdd0byjt,1969
+She Lied To The FBI,My Shame Is True (Deluxe Edition),Alkaline Trio,2013-04-02,168773,48,0.00539,0.405,0.968,0.0,0.345,-4.842,0.14,179.985,0.502,4,4,1,spotify:track:3rQWKxOJtn2EXr6j3KfHdO,2013
+Mental Health,Phoenix,zebrahead,2008,193925,35,0.00693,0.52,0.99,0.0,0.3,-1.369,0.132,149.947,0.456,4,6,1,spotify:track:732fs63uFgMhF2JZDByDAq,2008
+Wake Up,Three Days Grace,Three Days Grace,2003-04-19,204373,49,0.000192,0.502,0.891,0.0,0.0892,-5.9,0.0352,153.807,0.64,4,9,1,spotify:track:57RstmiMTPQXUvx6O41ZC7,2003
+Riot In The Neon Light,Supermegafantastic,IAMDYNAMITE,2012-03-13,181133,20,0.126,0.387,0.932,0.0,0.324,-5.225,0.144,174.765,0.432,4,8,1,spotify:track:0g9RyWW4MBrdKB5FAt5edj,2012
+Leave You in the Dark,The Acoustic Things,State Champs,2014-10-07,204370,41,0.208,0.57,0.4,0.0,0.0471,-9.281,0.0277,140.943,0.172,4,1,1,spotify:track:4NOnhaod3NkyawtrEFRcAa,2014
+Reassemble,Bad Vibrations (Deluxe Edition),A Day To Remember,2016-09-02,237090,46,0.00235,0.214,0.912,0.00233,0.265,-5.996,0.108,168.111,0.0679,4,11,0,spotify:track:48vkclgG3Fmbvrln1RqtDh,2016
+Call Me Anti-Social,Makes Me Sick,New Found Glory,2017-04-28,208380,0,0.000289,0.437,0.978,0.0,0.354,-3.2,0.181,161.976,0.535,4,2,1,spotify:track:4i9smHubqWFWVusTktEwYo,2017
+Under The Knife,The Sufferer & The Witness,Rise Against,2006-01-01,165173,56,0.000608,0.573,0.984,2.57e-06,0.0356,-3.846,0.0653,104.334,0.502,4,10,0,spotify:track:7lg0XrvUawyMBRv13zwALu,2006
+Disdain,Copacetic,Knuckle Puck,2015-07-31,164728,49,0.0114,0.433,0.97,2.65e-05,0.159,-3.02,0.0988,95.034,0.307,4,6,1,spotify:track:7K3RiFYzoLb4j2gtMgjLuE,2015
+Empty Space,What You Don't See,The Story So Far,2013-03-26,149936,58,5.27e-05,0.493,0.931,0.0,0.272,-3.651,0.0478,104.52,0.593,4,10,0,spotify:track:7qTYjaaLpEOQzrgqtQ3py2,2013
+Bored To Death,Bored To Death,blink-182,2016-04-27,235613,0,0.00575,0.502,0.966,1.56e-06,0.117,-3.876,0.0946,159.948,0.638,4,0,1,spotify:track:34hoCwSsssai61QCqzGYtX,2016
+"Andy, You're A Star",Hot Fuss,The Killers,2004-06-15,194080,44,0.233,0.504,0.588,0.00466,0.148,-4.35,0.0253,84.126,0.712,4,1,0,spotify:track:3Jm6PDqIputlpeg75EtDic,2004
+L.A. Woman,L.A. Woman,The Doors,1971-04-19,471160,69,0.0812,0.354,0.731,0.00124,0.115,-9.178,0.0382,170.633,0.697,4,2,1,spotify:track:6DmfWj5kOa1fX8AwN9byOn,1971
+Better Days,Shallow Bay: The Best Of Breaking Benjamin Deluxe Edition (Explicit),Breaking Benjamin,2011-01-01,203346,40,0.000332,0.528,0.939,0.000312,0.178,-4.312,0.0559,101.035,0.377,4,8,1,spotify:track:2bzvFmc451obH1ldetQrgT,2011
+Lost In Stereo,Nothing Personal,All Time Low,2009-07-07,227466,0,0.00315,0.471,0.963,0.0,0.244,-3.795,0.0572,150.033,0.581,4,10,1,spotify:track:5sB6K9vUUDl2nQQwApqQB1,2009
+Gravity,F.E.A.R.,Papa Roach,2015-01-27,244448,59,0.00753,0.567,0.922,0.0,0.107,-3.896,0.21,85.968,0.635,4,1,1,spotify:track:4nrWU5PRlFJubLjahofpOU,2015
+Time to Waste,Crimson,Alkaline Trio,2005-05-24,251986,51,0.00309,0.51,0.937,0.000111,0.134,-6.283,0.0575,127.438,0.178,4,6,0,spotify:track:0imHRp0dntswjXWQxkWhZP,2005
+Lights And Sounds,Lights And Sounds,Yellowcard,2006-01-01,208186,64,8.48e-05,0.344,0.972,0.0,0.293,-3.675,0.116,167.819,0.387,4,11,0,spotify:track:4XOZaPYeMn9hcbpyS90NnD,2006
+Don't Forget to Dance,State of Confusion,The Kinks,1983-05-24,278213,0,0.176,0.557,0.494,0.000423,0.128,-12.724,0.0274,96.828,0.466,4,9,1,spotify:track:10OTiDM51wV8bfWGCxY6xw,1983
+Leave All the Lights On,Common Courtesy,A Day To Remember,2013-11-25,211327,0,0.000273,0.46,0.943,2.6e-06,0.109,-3.814,0.0826,138.042,0.472,4,11,1,spotify:track:48unX6IMOSwRZQwKGyOZby,2013
+Quicksand,Under Soil and Dirt,The Story So Far,2011-06-21,158533,56,0.000989,0.349,0.995,0.0,0.0955,-2.622,0.143,189.936,0.223,4,5,1,spotify:track:1R1yJO9oVNcq1ae8AZH0kT,2011
+Nothing's Wrong,The Finer Things,State Champs,2013-10-08,205675,38,0.00122,0.439,0.994,0.0,0.0828,-1.733,0.0685,94.99,0.368,4,8,1,spotify:track:4DZpxJtsCqrxeGCIOOqWkC,2013
+Tragedy + Time,The Black Market,Rise Against,2014-01-01,257000,55,0.0007,0.264,0.97,2.89e-05,0.131,-3.428,0.116,175.672,0.533,4,0,0,spotify:track:39yvhCgBmNrLf0m9lan0Ge,2014
+Wake Me Up,Broadcast to the World,zebrahead,2006,229773,44,0.000593,0.523,0.981,3.66e-06,0.411,-3.865,0.124,104.471,0.449,4,1,1,spotify:track:3mSZz9k6TzRpin74YEipgV,2006
+We All Float Down Here,Four Year Strong,Four Year Strong,2015-06-02,187561,56,0.000116,0.522,0.996,1.05e-05,0.252,-4.316,0.186,96.477,0.138,4,10,0,spotify:track:44RrOIa9ziCFW9YC6ndAUL,2015
+Red Planet,Alvvays,Alvvays,2014-07-22,238760,39,0.0726,0.0959,0.459,0.638,0.139,-6.242,0.0365,183.954,0.143,4,4,0,spotify:track:16BEzwWUfUe0cVGME3Itjh,2014
+I Will Not Bow,Dear Agony,Breaking Benjamin,2009-01-01,216733,74,0.000165,0.533,0.955,1.36e-05,0.38,-3.708,0.0653,107.984,0.55,4,8,1,spotify:track:2yXyz4NLTZx9CLdXfLTp5E,2009
+Don't Forget Me,By the Way (Deluxe Edition),Red Hot Chili Peppers,2002-07-09,277160,65,0.00399,0.499,0.705,9.11e-06,0.104,-5.596,0.0669,123.909,0.36,4,9,0,spotify:track:308kjPoIVBzDNExO54sqAi,2002
+Midnight Show,Hot Fuss,The Killers,2004-06-15,242973,43,8.05e-05,0.395,0.955,0.00813,0.0866,-3.394,0.0835,143.991,0.273,4,3,0,spotify:track:7KC3BSniVDfKMD8YLKmOrf,2004
+Castaway,Warning,Green Day,2000-10-03,232533,48,0.00138,0.624,0.978,0.0,0.23,-2.553,0.038,116.54,0.953,4,11,1,spotify:track:0hTFEWK4Rso35cjOlvZTHg,2000
+Falling Apart,F.E.A.R.,Papa Roach,2015-01-27,188919,60,8.26e-05,0.528,0.942,0.0,0.344,-2.825,0.0512,110.058,0.421,4,3,0,spotify:track:1Ka4sX789wNftDGgjCO2h7,2015
+Some Day,Us and Them (Deluxe Edition),Shinedown,2005-10-04,192200,46,8.44e-05,0.429,0.688,0.0,0.102,-5.563,0.0309,174.019,0.37,4,9,1,spotify:track:6u6lq3YGK1h7VfjeQjDTdf,2005
+Runnin' Down A Dream,Anthology: Through The Years,Tom Petty and the Heartbreakers,2000-01-01,264333,0,0.00072,0.467,0.955,0.426,0.494,-6.043,0.0462,169.776,0.68,4,9,1,spotify:track:75wP08AtMfGfjk0nPdvVw3,2000
+Prayer Of The Refugee,The Sufferer & The Witness,Rise Against,2006-01-01,199386,69,0.00165,0.2,0.977,1.1e-05,0.259,-3.494,0.159,195.711,0.39,4,3,0,spotify:track:4OSbctVD37ycS0H3rwRm72,2006
+Radio,Maybe I'll Catch Fire,Alkaline Trio,2000-03-06,281040,58,0.0348,0.649,0.657,0.000372,0.136,-6.607,0.0258,113.423,0.434,4,2,1,spotify:track:3VVstQ0fpj4pdSPe2QZT5z,2000
+Gotta Get Out,Rise or Die Trying (10 Year Anniversary Edition),Four Year Strong,2017-09-08,182413,27,0.000351,0.403,0.919,0.0,0.502,-7.847,0.066,193.076,0.872,4,7,1,spotify:track:4jUv1QgsB8Dq5BBRUFGF5n,2017
+Elevated,The Finer Things,State Champs,2013-10-08,209021,55,0.00548,0.267,0.981,0.0,0.0346,-2.04,0.136,188.181,0.456,4,5,1,spotify:track:2GNkR4EfPnXi0zRl5A89ky,2013
+Anna Molly,Light Grenades,Incubus,2006-11-28,225880,62,0.00428,0.451,0.973,7.36e-06,0.0924,-2.611,0.0514,151.885,0.628,4,8,1,spotify:track:0uLhNT7UIH3nZCCDZd3OBl,2006
+No Future,California,blink-182,2016-07-01,225813,54,0.00689,0.485,0.948,0.0,0.218,-2.68,0.131,162.966,0.481,4,0,1,spotify:track:5Uwm4pdpaaW3yari6ymMTT,2016
+Party Police,Alvvays,Alvvays,2014-07-22,227719,50,0.534,0.451,0.76,0.843,0.326,-4.195,0.0358,121.737,0.417,4,9,1,spotify:track:6uOPpbw0ufHCruEKFKAUkj,2014
+Something Wonderful,Vacation,Seaway,2017-09-15,178532,53,0.00015,0.602,0.907,7.3e-06,0.0812,-4.578,0.0495,116.068,0.642,4,0,0,spotify:track:3qocP5BEC1Bu4VVdJPvka6,2017
+Hold On Till May,Collide With The Sky,Pierce The Veil,2012-07-17,278586,66,0.000585,0.46,0.91,0.00155,0.0735,-3.71,0.0525,73.019,0.327,4,3,1,spotify:track:5u2FOoFhp495GIj5BJC77J,2012
+Getting Away With Murder,Getting Away With Murder,Papa Roach,2004-01-01,191372,59,0.000115,0.543,0.97,3.34e-05,0.238,-3.78,0.0532,103.91,0.349,4,1,1,spotify:track:40dHZ1HyySmu9FmTINRbqM,2004
+Black Cat,A Lesson In Romantics,Mayday Parade,2007-07-10,203893,52,0.000296,0.27,0.922,0.0,0.501,-3.428,0.0686,79.329,0.636,4,2,1,spotify:track:6NP5mne71yGCzjQWr6jQ7S,2007
+Where Will We Go,Supermegafantastic,IAMDYNAMITE,2012-03-13,183946,42,0.0066,0.689,0.78,0.000489,0.33,-6.1,0.0639,96.397,0.366,4,1,0,spotify:track:2lTcjyNolq1zsDCevBAKvc,2012
+When You Were Young,Sam's Town,The Killers,2006-09-27,220426,79,0.000152,0.467,0.988,0.0484,0.28,-3.313,0.112,130.433,0.321,4,11,1,spotify:track:70wYA8oYHoMzhRRkARoMhU,2006
+"Not to Toot My Own Horn, But Beep Beep!",Rise or Die Trying (10 Year Anniversary Edition),Four Year Strong,2017-09-08,245106,27,0.0029,0.398,0.964,0.0,0.224,-5.971,0.14,181.962,0.464,4,2,1,spotify:track:2d8Cw9g4hgT21YZxXD6Pjw,2017
+It's Complicated,What Separates Me From You,A Day To Remember,2010,177240,0,0.000204,0.199,0.935,0.0,0.0628,-3.471,0.157,195.012,0.637,4,1,1,spotify:track:069deq5woglvUnWok4MqTe,2010

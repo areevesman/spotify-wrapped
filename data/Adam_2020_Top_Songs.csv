@@ -1,0 +1,101 @@
+name,album,artist,release_date,length,popularity,acousticness,danceability,energy,instrumentalness,liveness,loudness,speechiness,tempo,valence,time_signature,key,mode,uri,release_year
+Deal,No Pressure,No Pressure,2020-08-21,163600,47,0.00251,0.385,0.947,0.0,0.326,-3.312,0.0564,163.934,0.62,4,9,1,spotify:track:666exyIZhezN9kFYj6vhqM,2020
+Proper Dose,Proper Dose,The Story So Far,2018-09-21,140461,55,1.49e-05,0.449,0.976,0.00367,0.102,-3.853,0.0625,104.08,0.513,4,5,0,spotify:track:0UtBjb4YUMbbtIKNXUeCLx,2018
+Mindreader,Mindreader,A Day To Remember,2020-04-15,173520,60,0.000385,0.458,0.949,0.0,0.306,-3.243,0.115,164.073,0.518,4,0,1,spotify:track:2hVKFfp7Rmr2XPK31jFCrX,2020
+Keep This Up,Proper Dose,The Story So Far,2018-09-21,146622,57,8.36e-05,0.26,0.985,0.000122,0.367,-3.704,0.063,103.54,0.292,4,9,1,spotify:track:0hsCfXTwB1QhJDpLmf1Q8U,2018
+Doin' fine,No Pressure,No Pressure,2020-08-21,119960,50,0.00384,0.423,0.985,0.0,0.335,-3.796,0.0605,96.001,0.419,4,9,1,spotify:track:38JU9d0Tt7fJpFhMCeJ3hp,2020
+RSVP,RSVP,Knuckle Puck,2020-04-21,173415,14,6.74e-05,0.359,0.941,0.00314,0.346,-2.485,0.0709,89.158,0.555,4,8,1,spotify:track:1kti7wLa2gYNAEvRT3OJsh,2020
+Me First,Composure,Real Friends,2018-07-13,193280,57,0.000481,0.509,0.952,0.0,0.248,-3.924,0.043,95.083,0.655,4,5,1,spotify:track:72yApMP8fkW15lWdMjerBp,2018
+It Must Really Suck To Be Four Year Strong Right Now,Enemy Of The World (Special Edition),Four Year Strong,2010-01-01,196146,36,0.000149,0.248,0.979,2.39e-05,0.366,-3.787,0.229,168.188,0.343,4,2,1,spotify:track:1WxU2gzm360coppgmRQ6ua,2010
+Nerve,The Story So Far,The Story So Far,2015-05-18,188200,58,0.00131,0.514,0.971,0.000548,0.281,-2.633,0.0696,108.008,0.482,4,8,1,spotify:track:1DlT3Udf11689ezYr6R8aA,2015
+Gone,Shapeshifter,Knuckle Puck,2017-10-13,185419,52,0.000207,0.376,0.961,1.02e-05,0.111,-4.162,0.261,120.263,0.33,4,6,1,spotify:track:2MyUIH6eOOfzgxAEw8qz5R,2017
+Mess,The Home Inside My Head,Real Friends,2016-05-27,188493,53,7.23e-06,0.508,0.92,0.864,0.0853,-4.387,0.0489,90.027,0.699,4,1,1,spotify:track:1mjcyWQPFsoG1Cb6Gl33Tk,2016
+Hot Sugar,Dreamland,Glass Animals,2020-08-07,234865,65,0.0837,0.705,0.487,0.028,0.303,-9.456,0.0587,88.616,0.34,4,0,0,spotify:track:0r9OkYadpBgYA2bkkrRSsI,2020
+Wes Anderson,B-Grade University,Alex Lahey,2016-07-29,250356,0,0.298,0.471,0.884,0.000112,0.217,-2.695,0.0289,153.931,0.293,4,4,1,spotify:track:5ioiddXYQo2A9qOgSfWnI1,2016
+Right Back At It Again,Common Courtesy,A Day To Remember,2013-10-08,200031,60,0.000115,0.296,0.993,2.42e-06,0.0975,-3.814,0.333,169.813,0.306,4,3,1,spotify:track:4YfF0cZEBtCju02dhXfifE,2013
+We All Float Down Here,Four Year Strong,Four Year Strong,2015-06-02,187561,56,0.000116,0.522,0.996,1.05e-05,0.252,-4.316,0.186,96.477,0.138,4,10,0,spotify:track:44RrOIa9ziCFW9YC6ndAUL,2015
+Tangerine,Dreamland,Glass Animals,2020-08-07,200583,71,0.114,0.845,0.583,0.000536,0.1,-5.948,0.0773,149.941,0.842,4,9,0,spotify:track:40rOlDoGejXXF4B0BYsjx8,2020
+Empty Space,What You Don't See,The Story So Far,2013-03-26,149936,58,5.27e-05,0.493,0.931,0.0,0.272,-3.651,0.0478,104.52,0.593,4,10,0,spotify:track:7qTYjaaLpEOQzrgqtQ3py2,2013
+forget me too (feat. Halsey),Tickets To My Downfall,Machine Gun Kelly,2020-09-25,171620,80,0.000417,0.654,0.875,0.0086,0.194,-4.845,0.0744,99.975,0.522,4,1,1,spotify:track:1VSuFS7PahCN3SWbOcQ98m,2020
+Bad Decisions,The New Abnormal,The Strokes,2020-04-10,293360,68,0.0135,0.374,0.922,0.204,0.28,-3.4,0.056,153.217,0.393,4,0,1,spotify:track:55N8cxpE1QDoeaaNqUnoZ2,2020
+Don't Let Me Go,Don't Let Me Go,Lane 8,2019-11-14,274838,49,0.0861,0.353,0.473,0.311,0.104,-10.471,0.0319,123.974,0.13,4,4,1,spotify:track:15ygsHteyHJFVoEKwmPaRl,2019
+From The Outside,Composure,Real Friends,2018-07-13,185493,56,0.00391,0.51,0.979,0.0,0.334,-3.335,0.0607,103.032,0.72,4,1,1,spotify:track:7LAZoVMv0qo20VpimTOBsi,2018
+Orange Trees,Love + Fear,MARINA,2019-04-26,187992,55,0.256,0.731,0.66,5.9e-06,0.12,-6.892,0.0519,100.988,0.547,4,8,0,spotify:track:368UaeqCCqT237KgIN8H5I,2019
+Disdain,Copacetic,Knuckle Puck,2015-07-31,164728,49,0.0114,0.433,0.97,2.65e-05,0.159,-3.02,0.0988,95.034,0.307,4,6,1,spotify:track:7K3RiFYzoLb4j2gtMgjLuE,2015
+Wanna Get Ahead,No Pressure,No Pressure,2020-08-21,122600,43,0.00186,0.423,0.943,0.0,0.354,-3.663,0.0647,95.967,0.547,4,1,0,spotify:track:3gA5mAIdEQkp6Pb5ejYlXR,2020
+Helium,Dreamland,Glass Animals,2020-08-07,328232,65,0.854,0.289,0.307,0.275,0.255,-16.036,0.0452,96.516,0.0477,4,4,1,spotify:track:1yOc6FBOVD6zBwOMxiSEEv,2020
+Audience Of One - Ghost Note Symphonies,"The Ghost Note Symphonies, Vol.1",Rise Against,2018-07-27,248697,48,0.619,0.415,0.405,0.0,0.0969,-6.266,0.0296,159.779,0.372,4,1,1,spotify:track:2j6QH8Q3q3TFYHpOQvExiE,2018
+If I Fall,Proper Dose,The Story So Far,2018-09-21,207309,52,0.00827,0.241,0.901,0.0,0.375,-4.803,0.0419,96.468,0.698,4,6,1,spotify:track:545qISq6Oh05QSMBVLQXg6,2018
+Breathe Deeper,The Slow Rush,Tame Impala,2020-02-14,372866,71,0.0245,0.664,0.848,0.000127,0.172,-4.51,0.0322,104.998,0.502,4,11,0,spotify:track:3LbZIhU0smEU5SUnxod4j4,2020
+All I Want,What Separates Me From You,A Day To Remember,2010,202640,1,2.53e-05,0.342,0.981,0.0,0.343,-3.228,0.14,160.083,0.207,4,2,0,spotify:track:3imITUqEhkebNbOoS1yrWm,2010
+California Friends,How Do You Love?,The Regrettes,2019-08-09,214186,54,0.00398,0.601,0.648,0.0,0.177,-5.495,0.0967,167.91,0.393,4,9,1,spotify:track:1KgS3NtxZ0yCVvWWHhYtyx,2019
+All My Friends,All My Friends,Madeon,2019-05-31,204626,50,0.0248,0.669,0.757,0.0,0.283,-4.259,0.0469,106.018,0.708,4,8,0,spotify:track:7sGTH1fber0bhncNMfNxmt,2019
+The Dirt Whispered,Appeal To Reason,Rise Against,2008-01-01,189080,54,0.000121,0.324,0.938,2.58e-05,0.144,-3.436,0.0445,104.733,0.666,4,1,1,spotify:track:5CAaWuGhF4XvUm2liCkThA,2008
+Your Graduation,You're Gonna Miss It All,Modern Baseball,2014-02-11,163760,3,0.001,0.395,0.902,0.0,0.327,-5.808,0.176,184.737,0.632,4,8,0,spotify:track:0YHbKVzzxk7bUpfdr9VQY3,2014
+Tune You Out,Tune You Out,Knuckle Puck,2020-02-21,178605,20,4.36e-05,0.316,0.951,0.000495,0.0608,-1.882,0.08,169.071,0.525,3,3,1,spotify:track:28VxaqLBkdHe4wlJczoSDT,2020
+It's Complicated,What Separates Me From You,A Day To Remember,2010,177240,0,0.000204,0.199,0.935,0.0,0.0628,-3.471,0.157,195.012,0.637,4,1,1,spotify:track:069deq5woglvUnWok4MqTe,2010
+Dead Weight,Use Me,PVRIS,2020-08-28,207000,55,0.00593,0.599,0.915,0.00943,0.484,-2.087,0.0664,119.004,0.59,4,4,0,spotify:track:3FmsKw8ie3KLC5273nH6wD,2020
+Upside Down,Proper Dose,The Story So Far,2018-09-21,231349,56,0.00336,0.531,0.768,2.71e-06,0.163,-5.64,0.0287,105.974,0.329,4,1,1,spotify:track:4ZiAnGIZFFUybp0NZXIYEG,2018
+Rushing Back,Rushing Back,Flume,2019-09-25,231663,71,0.357,0.574,0.612,0.0,0.158,-4.741,0.0781,136.046,0.368,3,0,1,spotify:track:2zoNNEAyPK2OGDfajardlY,2019
+Best Of Me,Common Courtesy,A Day To Remember,2013-10-08,207778,54,0.00133,0.441,0.967,0.0,0.162,-3.044,0.173,160.007,0.64,4,6,0,spotify:track:6IzSiFDDTdcHjL9uBgyAiG,2013
+Freelance,Outer Peace,Toro y Moi,2019-01-18,225893,1,0.014,0.975,0.475,0.0111,0.165,-7.067,0.123,115.009,0.867,4,9,0,spotify:track:1zbLpabwKzj404PWNEKtjL,2019
+Solo,The Story So Far,The Story So Far,2015-05-18,157880,50,0.00676,0.501,0.969,0.0,0.282,-3.146,0.062,107.391,0.3,4,1,1,spotify:track:6YuBA0OqrYdgRGNuYSlb3R,2015
+"Heroes Get Remembered, Legends Never Die",Rise or Die Trying,Four Year Strong,2007-09-18,215760,50,0.00105,0.429,0.964,0.0,0.277,-4.09,0.178,163.06,0.525,4,2,1,spotify:track:73egERbXJYHKWUgCVEkUtK,2007
+Want Me Around,Shapeshifter,Knuckle Puck,2017-10-13,211100,51,0.00699,0.452,0.962,1.01e-05,0.0997,-3.225,0.127,101.885,0.527,4,0,0,spotify:track:1hWlZxzZWiXRkQy7ywSAmh,2017
+Elevated,The Finer Things,State Champs,2013-10-08,209021,55,0.00548,0.267,0.981,0.0,0.0346,-2.04,0.136,188.181,0.456,4,5,1,spotify:track:2GNkR4EfPnXi0zRl5A89ky,2013
+June,spin,Tigers Jaw,2017-05-19,203546,49,0.000189,0.5,0.849,0.000994,0.123,-4.309,0.0332,121.003,0.407,4,1,0,spotify:track:4ztx0lpE5Vx3yg7FereOtS,2017
+Get out of My Head,Brain Pain,Four Year Strong,2020-02-28,190648,43,0.000242,0.511,0.849,8.04e-05,0.0681,-2.848,0.0719,106.231,0.721,4,10,1,spotify:track:3RZXQB6zCmH4isPCM5nY4n,2020
+Things I Can't Change,What You Don't See,The Story So Far,2013-03-26,172385,56,5.68e-05,0.233,0.99,0.0,0.0933,-3.546,0.129,121.084,0.213,4,8,1,spotify:track:0a96MZrTDKwvl1MTYvDP3o,2013
+No Pressure,No Pressure,No Pressure,2020-08-21,66640,44,0.000412,0.415,0.977,2.83e-06,0.311,-3.508,0.0734,102.088,0.325,4,1,0,spotify:track:5OYE8lFPrljNQCsulIeJeV,2020
+Space Ghost Coast To Coast,Dreamland,Glass Animals,2020-08-07,187383,67,0.105,0.903,0.529,0.00255,0.138,-9.901,0.0623,100.977,0.353,4,8,1,spotify:track:0RZLmpEzGR2NHite6rvS5H,2020
+Godspeed,Cities,Anberlin,2007-01-01,182920,53,5.35e-05,0.4,0.971,8.4e-05,0.101,-4.82,0.0776,176.09,0.384,4,8,1,spotify:track:6YRzgyDwvfAaqqSNgWhttU,2007
+Out of It,Proper Dose,The Story So Far,2018-09-21,158452,54,0.000157,0.381,0.939,0.0,0.389,-3.255,0.0523,173.02,0.635,4,2,1,spotify:track:3XSHoPUiTR7cvQoQPHGb8E,2018
+So You Say,No Pressure,No Pressure,2020-08-21,94800,47,0.0125,0.446,0.877,0.0,0.318,-3.427,0.0452,127.942,0.787,4,4,1,spotify:track:1w0mipozZRBtR0to8Zux46,2020
+Faint Resemblance - Ghost Note Symphonies,"The Ghost Note Symphonies, Vol.1",Rise Against,2018-07-27,142892,44,0.889,0.677,0.327,2.26e-06,0.0977,-9.445,0.0513,91.211,0.567,4,0,1,spotify:track:6RTDyHa1vdrRLUNvFOH4Ry,2018
+The Downfall of Us All,Homesick,A Day To Remember,2009,209093,1,0.000256,0.589,0.881,0.0,0.327,-4.62,0.0666,129.95,0.709,4,0,1,spotify:track:6G7URf5rGe6MvNoiTtNEP7,2009
+Line,Proper Dose,The Story So Far,2018-09-21,157053,44,0.047,0.55,0.875,0.875,0.109,-8.255,0.0419,102.97,0.521,4,8,1,spotify:track:3nOanVbSDTety25Gdo3Xim,2018
+Let It Rain,Adornment,Grayscale,2017-05-05,187466,40,0.000186,0.538,0.976,0.0,0.242,-1.754,0.0838,107.04,0.663,4,1,1,spotify:track:0HHDZxc40mWBzkXpzGmyl1,2017
+The Black Market,The Black Market,Rise Against,2014-01-01,255960,51,0.000309,0.254,0.957,1.57e-06,0.35,-3.982,0.131,143.971,0.388,4,8,1,spotify:track:5skwAU0N1ijXEJ5HFDphXP,2014
+Better Off This Way,What Separates Me From You,A Day To Remember,2010,206360,0,9.33e-05,0.379,0.965,0.0,0.371,-3.442,0.0975,160.057,0.565,4,4,1,spotify:track:5TtOrriDfiamVEKrls2GIT,2010
+a lot,i am > i was,21 Savage,2018-12-21,288624,83,0.0395,0.837,0.636,0.00125,0.342,-7.643,0.086,145.972,0.274,4,1,1,spotify:track:2t8yVaLvJ0RenpXUIAC52d,2018
+In Your Eyes,IV,BADBADNOTGOOD,2016-07-08,247054,55,0.43,0.495,0.533,0.000672,0.106,-5.802,0.0295,79.71,0.424,4,0,0,spotify:track:46aSz462xUFxA5X4O6WlB0,2016
+Tragedy + Time,The Black Market,Rise Against,2014-01-01,257000,55,0.0007,0.264,0.97,2.89e-05,0.131,-3.428,0.116,175.672,0.533,4,0,0,spotify:track:39yvhCgBmNrLf0m9lan0Ge,2014
+Milk & Coffee,They Might've Even Loved Me,NoMBe,2018-03-23,235653,57,0.00103,0.561,0.805,4.78e-06,0.488,-4.672,0.0315,90.999,0.727,4,7,1,spotify:track:6vWaOUGVNbe7wx6X3EddAF,2018
+Cute Without The 'E' (Cut From The Team),Tell All Your Friends,Taking Back Sunday,2002-03-26,211546,1,0.0394,0.402,0.859,0.0,0.0745,-4.41,0.0466,95.31,0.514,4,1,0,spotify:track:6PsISpFaCEKwysPfwO9SfC,2002
+Stockholm Syndrome,blink-182,blink-182,2003-01-01,161133,39,0.00904,0.394,0.989,1.34e-05,0.144,-3.001,0.0881,173.182,0.487,4,0,1,spotify:track:2wMqxbWlfIIaVzpYtFG4HY,2003
+Canción De Pop De Amor,Movidas,Cariño,2018-11-09,169018,58,0.00443,0.411,0.58,0.00141,0.0627,-11.263,0.0353,195.018,0.805,4,7,1,spotify:track:1FQ0oX2fjXeD3RNQUEHnnr,2018
+Dreamland,Dreamland,Glass Animals,2020-08-07,203492,66,0.883,0.253,0.352,0.00191,0.0668,-11.509,0.0357,141.97,0.099,5,8,1,spotify:track:2LiDZmGERLzjrtBTCofj2G,2020
+Take Me as You Please,Proper Dose,The Story So Far,2018-09-21,222869,57,0.00131,0.478,0.61,0.0,0.211,-5.945,0.0277,149.993,0.504,4,5,1,spotify:track:5JCD9hxovnHVF72WXt7App,2018
+What Took You So Long?,Earthquake,Knuckle Puck,2020-08-28,158437,7,0.000429,0.383,0.94,5.11e-05,0.141,-2.52,0.0871,177.342,0.847,4,8,1,spotify:track:1gy2eoTHmYeoSBX3vfOLcz,2020
+In Violet,Nella Vita,Grayscale,2019-09-06,177186,51,0.0156,0.609,0.883,0.00432,0.144,-4.486,0.0326,105.0,0.473,4,1,0,spotify:track:3L1n27XI8WzYZJIcXvsw5Z,2019
+Waterfalls Coming Out Your Mouth,Dreamland,Glass Animals,2020-08-07,161789,66,0.194,0.649,0.553,0.000553,0.178,-7.139,0.034,149.004,0.322,4,11,0,spotify:track:7s0FCUlKnSFjFPzcIJmkwo,2020
+Need to Know,Proper Dose,The Story So Far,2018-09-21,171938,46,4.56e-05,0.247,0.927,1.04e-05,0.345,-4.293,0.0803,95.0,0.49,3,8,0,spotify:track:1NOJdMXrAQ1UAdtU58Nhk5,2018
+Untitled,Copacetic,Knuckle Puck,2015-07-31,471660,58,0.00935,0.266,0.887,0.28,0.178,-5.742,0.0348,135.014,0.215,4,6,1,spotify:track:7j04glqh2SY6Es6jiQEhgf,2015
+Overstepping,Between You & Me,Belmont,2016-07-29,243973,0,3.8e-05,0.525,0.989,0.00168,0.344,-2.128,0.0757,102.569,0.471,4,1,1,spotify:track:79XKPlY5fagGd2iXhDPrEs,2016
+Domestic Bliss,Dreamland,Glass Animals,2020-08-07,198034,61,0.708,0.657,0.357,8.28e-06,0.0803,-10.922,0.0699,114.994,0.336,4,9,0,spotify:track:26E2fb3lp8MUEHq1WagF5f,2020
+Circles,Misadventures,Pierce The Veil,2016-05-13,224306,66,0.000278,0.482,0.975,2.69e-05,0.155,-3.098,0.103,162.08,0.371,4,2,1,spotify:track:6zUy2nnchfZpzaDalE6sO2,2016
+What’s On Your Mind,Nella Vita,Grayscale,2019-09-06,195760,34,0.0128,0.635,0.876,4.1e-06,0.19,-4.567,0.148,105.011,0.634,4,9,1,spotify:track:3pMTbWVukdaYujfhUTqAk9,2019
+Every Day's the Weekend,I Love You Like a Brother,Alex Lahey,2017-10-06,190674,0,0.00391,0.464,0.939,0.0038,0.261,-4.189,0.0436,182.106,0.86,4,4,1,spotify:track:3lLpxXl6wEgqww7gdb6RPz,2017
+Black Lipstick,Black Lipstick,Chicano Batman,2019-06-21,229373,0,0.104,0.824,0.418,0.000534,0.12,-8.962,0.0423,121.469,0.785,4,11,1,spotify:track:3kzOYFM5ZTj45uLhpSoINZ,2019
+Hairline Fracture,Appeal To Reason,Rise Against,2008-01-01,242560,34,0.000324,0.23,0.935,5.24e-06,0.459,-3.489,0.0838,165.329,0.463,4,10,1,spotify:track:4dMZ0ueUQch24tjzNuzjbg,2008
+Twilight (My Heaven),Nella Vita,Grayscale,2019-09-06,161853,34,0.000787,0.487,0.948,0.0,0.0732,-3.93,0.0489,137.997,0.791,4,1,1,spotify:track:3EkFeBY9RmLIKxkJdXpGvi,2019
+Close Your Eyes (And Count To Fuck),Run The Jewels 2,Run The Jewels,2014-10-24,234160,5,0.0123,0.678,0.662,0.0,0.133,-6.473,0.3,80.318,0.498,4,1,1,spotify:track:2Kn3xgaDCM4aHuHK7FApgC,2014
+Go Down in History,Four Year Strong,Four Year Strong,2015-06-02,219762,50,6.04e-05,0.505,0.985,1.02e-05,0.351,-4.401,0.119,119.993,0.243,4,5,1,spotify:track:2axAqRd2SSKmbA6fTuoRzM,2015
+This Is Letting Go,Endgame,Rise Against,2011-01-01,221200,53,0.000641,0.281,0.976,2.31e-06,0.0517,-3.471,0.0738,99.383,0.421,4,8,1,spotify:track:0304Y3lXclcRh5N50KJ3sE,2011
+Dizzy On the Comedown,Peripheral Vision,Turnover,2015-09-04,255773,2,0.431,0.619,0.632,8.05e-06,0.0897,-7.692,0.0273,114.97,0.265,4,8,1,spotify:track:0kCF7dfqwrw1YEf6LK0B1p,2015
+Nothing's Wrong,The Finer Things,State Champs,2013-10-08,205675,38,0.00122,0.439,0.994,0.0,0.0828,-1.733,0.0685,94.99,0.368,4,8,1,spotify:track:4DZpxJtsCqrxeGCIOOqWkC,2013
+Find My Way Back,Enemy Of The World,Four Year Strong,2010,208040,43,0.000105,0.496,0.992,0.0,0.562,-3.963,0.172,106.171,0.125,4,0,1,spotify:track:0y9T7SuTGJHeamj2BOc2iP,2010
+Daughters,Under Soil and Dirt,The Story So Far,2011-06-21,186786,48,5.31e-05,0.355,0.994,0.00187,0.354,-2.947,0.131,167.972,0.19,4,7,1,spotify:track:3r4AXS0FZZX2cG7SPUSTpy,2011
+Rock Show,The Strange Case of... (Deluxe),Halestorm,2012-04-09,199093,49,0.0104,0.549,0.939,0.0,0.074,-3.031,0.0482,121.98,0.548,4,4,0,spotify:track:42h9lxw9OKy1sw6vh6dKBP,2012
+Perfect Score,Around the World and Back,State Champs,2015-10-16,198453,41,8.66e-05,0.573,0.964,0.0,0.299,-4.082,0.0453,110.031,0.735,4,1,1,spotify:track:6VrMCe9krC0d54cWt7jnnR,2015
+Fading,Outer Peace,Toro y Moi,2019-01-18,197146,0,0.0617,0.739,0.666,0.164,0.0934,-8.169,0.21,122.144,0.666,4,1,0,spotify:track:4RKXPNzSNfrlgcCrksmauL,2019
+Pretense,Copacetic,Knuckle Puck,2015-07-31,185983,48,0.00719,0.233,0.955,0.0128,0.129,-2.658,0.343,190.041,0.348,4,10,1,spotify:track:4ycBEc4S3zcAap4NJd3UMR,2015
+Ms. California,Ms. California,Beach Bunny,2019-12-06,172037,36,0.000209,0.582,0.859,0.125,0.0841,-3.943,0.0399,121.97,0.61,4,4,1,spotify:track:0WxZEci23tWn1YzikUljEt,2019
+All Downhill From Here,Catalyst,New Found Glory,2004-05-18,192426,61,8.31e-05,0.428,0.934,0.000431,0.108,-4.061,0.0926,167.988,0.724,4,9,1,spotify:track:5dpDrUG52yI3s1AQRlaypA,2004
+No Fear No More,Good Faith,Madeon,2019-11-15,195106,53,0.00236,0.633,0.779,0.0295,0.371,-3.904,0.0853,96.009,0.679,4,6,1,spotify:track:2TZ9kaTiLewawHZK7yylSC,2019
+Heavy Gloom,The Story So Far,The Story So Far,2015-05-18,169960,54,0.000694,0.521,0.96,0.0,0.242,-2.624,0.085,101.954,0.36,4,6,1,spotify:track:5YESYAHcr5GpjheBegwFd4,2015
+Behind Closed Doors,The Sufferer & The Witness (Real explicit),Rise Against,2006-01-01,195120,39,0.000671,0.331,0.977,4.45e-05,0.18,-3.545,0.0876,195.328,0.603,4,10,0,spotify:track:7bsQEb4oFKdpAJwor5hOp3,2006
+Panini,Panini,Lil Nas X,2019-09-13,114893,76,0.342,0.703,0.594,0.0,0.123,-6.146,0.0752,153.848,0.475,4,5,0,spotify:track:1000nHvUdawXuUHgBod4Wv,2019
+The Game,Mind The Moon,Milky Chance,2019-11-15,213280,50,0.207,0.723,0.768,0.00082,0.0806,-5.281,0.053,75.023,0.947,4,5,0,spotify:track:24nN6MHT8RXVLMPp5Xxfje,2019
+Quicksand,Under Soil and Dirt,The Story So Far,2011-06-21,158533,56,0.000989,0.349,0.995,0.0,0.0955,-2.622,0.143,189.936,0.223,4,5,1,spotify:track:1R1yJO9oVNcq1ae8AZH0kT,2011
+"I'm Made of Wax, Larry, What Are You Made Of?",Homesick,A Day To Remember,2009,180840,0,7.35e-05,0.241,0.97,0.0,0.904,-4.246,0.104,159.93,0.621,4,10,0,spotify:track:1fTNpl2mxqHVlLqRNbyDhR,2009
